@@ -3,9 +3,9 @@ title: Beer n' Play
 position: 0
 layout: splash
 landing-title: Welcome to Beer n' Play
-description:
+description: 
 image: bnp-on-white.png
-author:
+author: 
 ---
 
 # We're opening soon!
