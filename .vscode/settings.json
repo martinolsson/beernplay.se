@@ -1,0 +1,28 @@
+{
+  "liquid.format": true,
+  "liquid.formatIgnore": ["case"],
+  "liquid.beautify": {
+    "html": {
+      "indent_size": 2,
+      "force_attribute": false,
+      "preserve": 2
+    },
+    "javascript": {
+      "indent_size": 2,
+      "preserve": 1,
+      "method_chain": 0,
+      "quote_convert": "none",
+      "format_array": "indent",
+      "format_object": "indent"
+    },
+    "stylesheet": {
+      "indent_size": 2,
+      "css_insert_lines": true,
+      "preserve": 2
+    },
+    "schema": {
+      "indent_size": 2,
+      "format_array": "indent"
+    }
+  }
+}
