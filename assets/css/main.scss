@@ -1,6 +1,8 @@
 ---
 ---
 
+// reset
+
 html {
   box-sizing: border-box;
   font-size: 16px;
@@ -38,20 +40,25 @@ img {
   height: auto;
 }
 
-// end reset
+// vars
+
+$page-background-color: #ffffff;
+$text-color: rgba(0, 0, 0, 0.666);
+$bnp-red: #cf2430;
 
 body {
   height: 100%;
   margin: 0;
   padding: 0;
   font-family: "Nunito", sans-serif;
-  background: white;
+  background: $page-background-color;
+  color: $text-color;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-#main {
+#splash {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -62,6 +69,11 @@ h1 {
   font-weight: bold;
 }
 
+a {
+  color: $text-color;
+}
+
 .biglogo {
+  margin-top: -3em;
   width: 100%;
 }
