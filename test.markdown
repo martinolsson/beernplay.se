@@ -1,7 +1,8 @@
 ---
 title: Test
-date: 2019-05-31 11:41:00 Z
+date: 2019-05-31 13:41:00 +02:00
 Field name: 
+layout: test
 ---
 
 fisk

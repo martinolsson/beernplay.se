@@ -1,7 +1,6 @@
 ---
 title: Beer n' Play
 timezone: Europe/Stockholm
-url: http://beernplay.se
 collections:
   posts:
     title: Posts
