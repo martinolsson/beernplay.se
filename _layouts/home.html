@@ -3,6 +3,11 @@
     {% include head.html %}
 
     <body>
-        {{ content }}
+        <div id="main">
+            <img class="smallogo" src="../assets/images/bnp-on-white.png">
+
+            {% include menu.html %}
+            {{ content }}
+        </div>
     </body>
 </html>
