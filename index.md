@@ -1,13 +1,13 @@
 ---
 title: Beer n' Play
 position: 0
-layout: splash
 landing-title: Welcome to Beer n' Play
 description: 
 image: bnp-on-white.png
 author: 
+layout: splash
 ---
 
-# We're opening soon!
+# We're open for business!
 
-## Check us out on [facebook](https://www.facebook.com/beernplay/)
+## (But our website is not ... check us out on [facebook)](https://www.facebook.com/beernplay/)
