@@ -3,11 +3,20 @@
     {% include head.html %}
 
     <body>
-        <div id="main">
-            <img class="smallogo" src="../assets/images/bnp-on-white.png">
-
+        <header>
+            <figure>
+                <a href=""><img class="smallogo" src="../assets/images/bnp-on-white.png"></a>
+            </figure>
             {% include menu.html %}
-            {{ content }}
+        </header>
+        <div id="main">
+            <section id="content">
+                {{ content }}
+            </section>
+
         </div>
+
+        {% include foot.html %}
+
     </body>
 </html>

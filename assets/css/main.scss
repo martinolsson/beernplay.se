@@ -11,22 +11,24 @@
 // vars
 
 $page-background-color: #000000;
-$text-color: rgba(255, 255, 255, 0.666);
+$text-color: rgba(255, 255, 255, 0.84);
 $bnp-red: #cf2430;
 
 body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
   font-family: "Nunito", sans-serif;
   background: $page-background-color;
   color: $text-color;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: stretch;
+  margin: 0;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 #splash {
+  flex: 1;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -34,14 +36,28 @@ body {
 }
 
 #main {
-  min-width: 320px;
-  max-width: 1200px;
-  width: 100%;
-  height: 100%;
+  flex: 1;
+}
+
+header {
   display: flex;
-  align-items: center;
   flex-direction: column;
-  border: 1px solid black;
+  > figure {
+    padding: 10px;
+    text-align: center;
+    img {
+      width: 300px;
+    }
+  }
+}
+
+footer {
+  border-top: 1px solid $text-color;
+  line-height: 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .button-menu {
@@ -49,27 +65,43 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 40px;
-
-  li {
-    margin: 10px;
-  }
 
   a {
     display: block;
     font-family: TrendHMSans;
-    font-size: 48px;
+    font-size: 36px;
+    margin: 10px;
     padding: 10px 20px;
     border: 4px solid $text-color;
     border-radius: 5px;
     text-decoration: none;
-    transition: 0.5s;
 
-    &:hover {
+    &:hover,
+    &.active {
       border: 4px solid $bnp-red;
       color: $bnp-red;
     }
   }
+}
+
+// untappd fixes
+
+.ut-menu {
+  font-family: "Nunito", sans-serif !important;
+  p {
+    font-size: inherit;
+  }
+  .menu-info {
+    display: none;
+  }
+  .menu-list-item a:hover {
+    font-weight: bold !important;
+    background-color: #000000 !important;
+  }
+}
+
+.pagination-container {
+  display: none;
 }
 
 h1 {
@@ -83,9 +115,4 @@ a {
 .biglogo {
   margin-top: -5em;
   width: 100%;
-}
-
-.smallogo {
-  width: 50%;
-  margin: 5em 0;
 }
