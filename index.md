@@ -2,9 +2,9 @@
 title: Beer n' Play
 position: 0
 landing-title: Welcome to Beer n' Play
-description: 
+description:
 image: bnp-on-white.png
-author: 
+author:
 layout: splash
 ---
 

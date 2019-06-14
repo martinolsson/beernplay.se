@@ -1,22 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     {% include head.html %}
 
     <body>
-        <header>
-            <figure>
-                <a href=""><img class="smallogo" src="../assets/images/bnp-on-white.png"></a>
-            </figure>
-            {% include menu.html %}
-        </header>
-        <div id="main">
+
+        {% include header.html %}
+
+        <article id="main">
             <section id="content">
                 {{ content }}
             </section>
+        </article>
 
-        </div>
-
-        {% include foot.html %}
+        {% include footer.html %}
 
     </body>
 </html>
