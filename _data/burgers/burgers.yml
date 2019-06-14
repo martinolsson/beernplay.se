@@ -1,8 +1,0 @@
-name: Burgers
-description:
-position: 2
-items:
-  - name: Classic
-    info: 180gr högrev/bringa
-    description: Majonnäs, krispsallad, tomat, silverlök, cheddarost, brioche
-    price: 139

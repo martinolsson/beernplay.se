@@ -2,9 +2,20 @@
 title: Beer n' Play
 timezone: Europe/Stockholm
 collections:
-  food:
-    title: Food
-    output: true
+  pizza:
+    title: Pizza
+    position:
+    type: food
+    output: false
+  burgers:
+    title: Burgers
+    description: Heppreef
+    type: food
+    output: false
+  sallads:
+    title: Sallads
+    type: food
+    output: false
   posts:
     title: Posts
     output: true

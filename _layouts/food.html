@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+
+    <body>
+
+        {% include header.html %}
+
+        <article id="main">
+            <section id="content">
+                {{ content }}
+            </section>
+
+            <div style="display: grid; grid-template-columns: 50% 50%; grid-gap: 20px">
+
+                {% assign menusections = site.collections | where:'type', 'food' | sort: 'position' %}
+
+                {% for section in menusections %}
+
+                    {% assign name = section.label %}
+
+                    <section>
+                        <h2>{{section.title}}</h2>
+                        <p>{{section.description}}</p>
+                        {% for item in site.[name] %}
+                            <h3>{{item.name}}
+                                <span>({{item.info}})</span>
+                                <strong>{{item.price}}kr</strong>
+                            </h3>
+                            {{item.content}}
+                        {% endfor %}
+                    </section>
+
+                {% endfor %}
+
+            </div>
+
+        </article>
+
+        {% include footer.html %}
+
+    </body>
+</html>

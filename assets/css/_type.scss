@@ -19,8 +19,8 @@ h2 {
 
 h3 {
   font-size: $base-font-size * 1.5;
+  margin: 0;
   font-weight: bold;
-  margin-bottom: $base-space;
   span {
     font-size: $base-font-size;
     color: $subdued-text-color;
@@ -34,9 +34,6 @@ h3 {
 
 p {
   margin-bottom: $base-space;
-  // @media screen and (max-width: $break-small) {
-  //   font-size: $base-font-size * 0.75;
-  // }
 }
 
 #content {
