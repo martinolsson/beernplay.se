@@ -21,6 +21,15 @@ h3 {
   font-size: $base-font-size * 1.5;
   font-weight: bold;
   margin-bottom: $base-space;
+  span {
+    font-size: $base-font-size;
+    color: $subdued-text-color;
+  }
+  strong {
+    font-size: $base-font-size;
+    font-weight: bold;
+    float: right;
+  }
 }
 
 p {
