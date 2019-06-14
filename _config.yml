@@ -1,8 +1,6 @@
 ---
 title: Beer n' Play
 timezone: Europe/Stockholm
-phone: 1262
-email: bar@beernplay.se
 collections:
   food:
     title: Food
@@ -13,5 +11,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+phone: 1262
+email: bar@beernplay.se
 sass:
   sass_dir: assets/css
