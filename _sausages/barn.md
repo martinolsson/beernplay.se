@@ -1,6 +1,7 @@
 ---
 title: Barnkorv med pommes
-info: gris
 position: 5
+info: gris
 price: 59
 ---
+

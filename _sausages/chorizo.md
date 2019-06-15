@@ -1,7 +1,7 @@
 ---
 title: Chorizo
-info: gris, nöt
 position: 2
+info: gris, nöt
 price: 109
 ---
 

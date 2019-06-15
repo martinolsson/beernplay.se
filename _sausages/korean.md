@@ -1,7 +1,7 @@
 ---
 title: The Korean
-info: gris
 position: 1
+info: gris
 price: 119
 ---
 

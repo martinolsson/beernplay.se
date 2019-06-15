@@ -1,7 +1,7 @@
 ---
 title: Lammkorv
-info: lamm, gris
 position: 4
+info: lamm, gris
 price: 119
 ---
 

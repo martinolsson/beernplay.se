@@ -1,6 +1,7 @@
 ---
 title: Rödmetsmajonnäs
-info: vegetarisk
 position: 6
+info: vegetarisk
 price: 15
 ---
+

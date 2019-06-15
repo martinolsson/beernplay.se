@@ -1,8 +1,7 @@
 ---
 title: Frankfurter
-info: gris, kalv
 position: 3
-price: 109
+info: gris, kalv
 price: 109
 ---
 
