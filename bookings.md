@@ -2,7 +2,7 @@
 title: Bookings
 date: 2019-05-31 13:41:00 +02:00
 position: 4
-Field name: 
+Field name:
 layout: home
 menu: true
 image: "../assets/images/dawg.jpg"

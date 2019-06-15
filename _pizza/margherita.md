@@ -1,7 +1,6 @@
 ---
 title: Margherita
 position: 1
-info:
 price: 115
 ---
 

@@ -1,0 +1,47 @@
+.food-menu {
+  // display: grid;
+  // grid-template-columns: 50% 50%;
+  // grid-column-gap: 2 * $base-space;
+
+  column-count: 3;
+  column-gap: 2 * $base-space;
+  column-rule: 1px dashed $subdued-border-color;
+  column-fill: balance;
+
+  @media screen and (max-width: $break-small) {
+    column-count: 1;
+  }
+  @media screen and (min-width: $break-small) and (max-width: $break-medium) {
+    column-count: 2;
+  }
+
+  section {
+    break-inside: avoid;
+    margin-bottom: 2 * $base-space;
+    .description {
+      margin-top: $base-space;
+      color: $subdued-text-color;
+    }
+    &.Pizza {
+      // grid-row: span 2;
+    }
+  }
+
+  h2,
+  h3 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    min-width: 300px;
+    span {
+      margin: 0 $base-space / 2;
+      font-size: $base-font-size;
+      color: $subdued-text-color;
+    }
+    strong {
+      margin-left: auto;
+      font-size: $base-font-size * 1.2;
+      font-weight: bold;
+    }
+  }
+}

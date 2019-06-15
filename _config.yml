@@ -5,12 +5,26 @@ collections:
   burgers:
     title: Burgers
     output: false
-    description: Heppreef
+    description: Fries included with all burgers.<br> Sweet potato fries 15:- extra
     type: food
+    position: 4
+  desserts:
+    title: Desserts
+    output: false
+    description:
+    type: food
+    position: 8
+  dips:
+    title: Dips
+    output: false
+    description:
+    type: food
+    position: 3
   pizza:
     title: Pizza
     output: false
     type: food
+    position: 7
   posts:
     title: Posts
     output: true
@@ -18,6 +32,24 @@ collections:
     title: Sallads
     output: false
     type: food
+    position: 5
+  sausages:
+    title: Korv <span>(140g) Don't forget sides!</span>
+    output: false
+    type: food
+    position: 1
+  sides:
+    title: Side orders
+    output: false
+    description:
+    type: food
+    position: 2
+  specials:
+    title: Specials
+    output: false
+    description:
+    type: food
+    position: 6
   uploads:
     title: Uploads
     output: true

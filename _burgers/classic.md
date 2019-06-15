@@ -1,7 +1,7 @@
 ---
 title: Classic
 position: 1
-info: 180gr högrev/bringa
+info: 180g högrev/bringa
 price: 139
 ---
 

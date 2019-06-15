@@ -11,28 +11,33 @@
                 {{ content }}
             </section>
 
-            <div style="display: grid; grid-template-columns: 50% 50%; grid-gap: 20px">
+            <div class="food-menu">
 
                 {% assign menusections = site.collections | where:'type', 'food' | sort: 'position' %}
 
                 {% for section in menusections %}
-
                     {% assign name = section.label %}
 
-                    <section>
+                    <section class="{{section.title}}">
                         <h2>{{section.title}}</h2>
-                        <p>{{section.description}}</p>
-                        {% for item in site.[name] %}
-                            <h3>{{item.name}}
-                                <span>({{item.info}})</span>
-                                <strong>{{item.price}}kr</strong>
+                        {% assign items = site[name] | sort: 'position' %}
+                        {% for item in items %}
+                            <h3>{{item.title}}
+                                {% if item.info != nil %}
+                                    <span>({{item.info}})</span>
+                                {% endif %}
+                                {% if item.price != nil %}
+                                    <strong>{{item.price}}:-</strong>
+                                {% endif %}
                             </h3>
                             {{item.content}}
                         {% endfor %}
+                        {% if section.description != nil %}
+                            <p class="description">{{section.description}}</p>
+                        {% endif %}
                     </section>
 
                 {% endfor %}
-
             </div>
 
         </article>
