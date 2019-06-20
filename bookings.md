@@ -15,3 +15,5 @@ Or just chill on the floor like a baws. But srsly just call or email us if you a
 <img src="../assets/images/dawg.jpg" class="right" alt="Dog">
 
 Our phone number is {{site.phone}} and our email is {{site.email}}
+
+{% include hours.html %}

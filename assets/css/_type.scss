@@ -45,3 +45,9 @@ a {
     text-decoration: underline;
   }
 }
+
+hr {
+  clear: both;
+  border: 1px dashed $subdued-border-color;
+  margin: 2 * $base-space 0;
+}

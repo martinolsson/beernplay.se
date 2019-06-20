@@ -150,6 +150,7 @@ footer {
     text-transform: uppercase;
     margin: $base-space / 2;
     padding: $base-space / 2 2 * $base-space;
+    padding-top: 4px; // Oswald is strange
     border: 3px solid $border-color;
     border-radius: 5px;
     text-decoration: none;
@@ -188,7 +189,9 @@ footer {
       background-color: transparent !important;
     }
     .beer-name {
-      margin-top: -5px;
+      margin-top: -4px;
+      margin-bottom: 4px;
+      font-size: $base-font-size * 1.2;
     }
     .section-header-bg-color {
       background: transparent !important;
@@ -211,27 +214,38 @@ footer {
   }
 }
 
-#instafeed {
-  display: flex;
-  flex-wrap: wrap;
-  a {
-    flex: 25%;
-    padding: 0 3px;
-    @media screen and (max-width: $break-small) {
-      flex: 50%;
-      &:first-child,
-      &:last-child {
-        flex: 100%;
-      }
-    }
-    @media screen and (min-width: $break-small) and (max-width: $break-medium) {
-      flex: 33.33%;
-    }
+table {
+  td,
+  th {
+    padding: $base-space / 2 $base-space;
+    // border-bottom: 1px solid $subdued-border-color;
+  }
+  th {
+    font-size: $base-font-size * 1.2;
+    border-bottom: 1px solid $subdued-border-color;
+  }
+}
 
-    img {
-      width: 100%;
-      height: auto;
-    }
+#instafeed {
+  column-gap: $base-space;
+  column-fill: balance;
+  column-count: 1;
+  @media screen and (min-width: $break-small) {
+    column-count: 2;
+  }
+  @media screen and (min-width: $break-medium) {
+    column-count: 3;
+  }
+  > * {
+    /* Avoids children getting stuck between column  */
+    break-inside: avoid;
+    /* For the bug that causes gap on top of columns sometimes */
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  > *:nth-child(2) {
+    -webkit-column-span: all; /* Chrome, Safari, Opera */
+    column-span: all;
   }
 }
 
@@ -316,5 +330,23 @@ img {
   }
   100% {
     transform: rotate(0deg);
+  }
+}
+
+.box {
+  &.styled {
+    border: 2px double $subdued-border-color;
+    padding: $base-space / 2;
+    margin: $base-space;
+  }
+  &.right {
+    float: right;
+    margin-left: $base-space;
+    margin-right: 0;
+  }
+  &.left {
+    float: left;
+    margin-right: $base-space;
+    margin-left: 0;
   }
 }
