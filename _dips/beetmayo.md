@@ -1,7 +1,6 @@
 ---
 title: Beetroot mayonnaise
 position: 6
-info: vegetarian
+info: vegan
 price: 15
 ---
-
