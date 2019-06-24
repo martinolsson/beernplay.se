@@ -4,4 +4,4 @@ position: 3
 price: 145
 ---
 
-San Marzano tomater, Fior di Latte, kronärtskocka, Prosciutto Cotto, svarta oliver, champinjoner & basilika
+San Marzano tomatoes, Fior di Latte, artichoke, Prosciutto Cotto, black olives, mushrooms & basil.

@@ -1,8 +1,8 @@
 ---
 title: Frankfurter
 position: 3
-info: gris, kalv
+info: pork, calf
 price: 109
 ---
 
-Surkål, bacon, dijonnaise, baguette
+Saurekraut, bacon, dijonnaise, baguette

@@ -1,7 +1,6 @@
 ---
-title: Rödmetsmajonnäs
+title: Beetroot mayonnaise
 position: 6
-info: vegetarisk
+info: vegetarian
 price: 15
 ---
-

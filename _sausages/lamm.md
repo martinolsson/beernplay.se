@@ -1,8 +1,8 @@
 ---
-title: Lammkorv
+title: Lamb sausage
 position: 4
-info: lamm, gris
+info: lamb, pork
 price: 119
 ---
 
-Chimichurri, parmesanmajonnäs, brioche
+Chimichurri, parmesan mayonnaise, brioche

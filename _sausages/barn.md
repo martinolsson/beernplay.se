@@ -1,7 +1,6 @@
 ---
-title: Barnkorv med pommes
+title: Kid's sausage with fries
 position: 5
-info: gris
+info: pork
 price: 59
 ---
-

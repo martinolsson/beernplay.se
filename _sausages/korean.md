@@ -1,8 +1,8 @@
 ---
 title: The Korean
 position: 1
-info: gris
+info: pork
 price: 119
 ---
 
-Koreanska pickles, kimchimajonnäs, brioche.
+Korean pickles, kimchi mayonnaise, brioche.

@@ -4,4 +4,4 @@ position: 6
 price: 155
 ---
 
-Provola, färska körsbärstomater, prosciutto crudo, ruccola & parmesanflingor & basilika
+Provola, fresh cherry tomatoes, Prosciutto Crudo, ruccola, parmesan flakes & basil.

@@ -4,4 +4,4 @@ position: 1
 price: 115
 ---
 
-San Marzano tomater, Fior di Latte & basilica
+San Marzano tomatoes, Fior di Latte & basil.

@@ -4,4 +4,4 @@ position: 3
 price: 149
 ---
 
-Örtmajonnäs, krispsallad, tomat, silverlök, parmesan, brioche
+Herb mayonnaise, lettuce, tomato, silverskin onion, parmesan, brioche.

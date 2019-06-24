@@ -1,8 +1,8 @@
 ---
 title: Classic
 position: 1
-info: 180g högrev/bringa
+info: 180g brisket
 price: 139
 ---
 
-Majonnäs, krispsallad, tomat, silverlök, cheddarost, brioche
+Mayonnaise, lettuce, tomato, silverskin onion, cheddar cheese, brioche.

@@ -2,7 +2,7 @@
 title: Bloody
 position: 4
 price: 159
-info: vegansk
+info: vegan
 ---
 
-Rödbetsmajonnäs, krispsallad, silverlök, rostad lök, vegansk ost
+Beetroot mayonnaise, lettuce, silverskin onion, roasted onion, vegan cheese.

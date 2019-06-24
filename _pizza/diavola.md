@@ -4,4 +4,4 @@ position: 4
 price: 140
 ---
 
-San Marzano tomater, Fior di Latte, stark salami & basilika
+San Marzano tomatoes, Fior di Latte, spicy salami & basil.

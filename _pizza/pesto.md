@@ -2,7 +2,7 @@
 title: Pesto Genovese
 position: 8
 price: 150
-info: vegetariansk
+info: vegetarian
 ---
 
-Färska körsbärstomater, pesto genovese, provola, parmesan & basilika
+Fresh cherry tomatoes, pesto genovese, provola, parmesan & basil.

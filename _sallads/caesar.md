@@ -4,4 +4,4 @@ position: 1
 price: 169
 ---
 
-Romansallad, ceasardressing, tomat, marinerad kyckling, knaperstekt bacon, färskriven parmesan, krutonger.
+Romaine lettuce, ceasar dressing, tomato, marinated chicken, crispy bacon, freshly grated parmesan, croutons.

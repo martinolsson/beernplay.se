@@ -2,7 +2,7 @@
 title: Ortolana
 position: 6
 price: 140
-info: vegansk
+info: vegan
 ---
 
-Paprika, champinjoner & aubergine. Fior di Latte, Färska körsbärstomater & basilika.
+Peppers, mushrooms & aubergine. Fior di Latte, Fresh cherry tomatoes & basil.

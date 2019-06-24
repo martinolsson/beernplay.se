@@ -4,4 +4,4 @@ position: 1
 price: 235
 ---
 
-Grillat lavainbröd, dijonsenap, oxfile, pepparot, äggula, serveras med tomatsallad
+Toasted levain, dijon mustard, filét of beef, horse radish, eggyolk. Served with a tomato sallad.

@@ -1,8 +1,8 @@
 ---
 title: BBQ Burger
 position: 2
-info: 180g högrev/bringa
+info: 180g brisket
 price: 159
 ---
 
-BBQ majonnäs, krispsallad, silverlök, cheddarost, bacon, jalapeno, brioche
+BBQ mayonnaise, lettuce, silverskin onion, cheddar cheese, bacon, jalapeño, brioche.

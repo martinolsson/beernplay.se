@@ -1,8 +1,8 @@
 ---
 title: Chorizo
 position: 2
-info: gris, nöt
+info: pork, beef
 price: 109
 ---
 
-Mangosalsa, rökt fläsksida, brioche
+Mango salsa, smoked pork side, brioche

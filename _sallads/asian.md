@@ -4,4 +4,4 @@ position: 2
 price: 179
 ---
 
-Romansallad, ceasardressing, salladslök, marinerad scampi (ASC), färskriven parmesan, ginger sweet chilli, krutonger.
+Romaine lettuce, ceasar dressing, scallions, marinated scampi (ASC), freshly grated parmesan, ginger, sweet chilli, croutons.
