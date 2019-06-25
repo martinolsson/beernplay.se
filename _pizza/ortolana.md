@@ -5,4 +5,4 @@ price: 140
 info: vegan
 ---
 
-Peppers, mushrooms & aubergine. Fior di Latte, Fresh cherry tomatoes & basil.
+Peppers, mushrooms & aubergine. Fior di Latte, fresh cherry tomatoes & basil.
