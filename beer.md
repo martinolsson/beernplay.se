@@ -2,14 +2,20 @@
 title: Beer
 date: 2019-05-31 13:41:00 +02:00
 position: 1
-Field name: 
+Field name:
 layout: home
 menu: true
+slider:
+  slides:
+    - image: /assets/images/beer1-l.jpg
+    - image: /assets/images/iris-the-dog-l.jpg
+    - image: /assets/images/cheers-l.jpg
+    - image: /assets/images/sina-l.jpg
 ---
 
 # We love beer!
 
-We live and breathe craft beer and our selections of beer and tap are bla. bla. bla. IPA buppa flippa guppa. Maybe a fooopah?
+### We live and breathe craft beer and our selections of beer and tap are bla. bla. bla. IPA buppa flippa guppa. Maybe a fooopah?
 
 That's why we fupp raga hoppning yedd and epeng sleng the banph
 

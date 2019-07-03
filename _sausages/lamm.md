@@ -5,4 +5,4 @@ info: lamb, pork
 price: 119
 ---
 
-Chimichurri, parmesan mayonnaise, brioche
+Chimichurri, parmesan mayonnaise, brioche.

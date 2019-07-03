@@ -1,18 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
-    {% include head.html %}
 
-    <body>
+            <html lang="en">
+                {% include head.html %}
 
-        {% include header.html %}
+                <body>
+                    {% if page.slider %}
+                        {% include ken.html %}
+                    {% endif %}
 
-        <article id="main">
-            <section class="columns" id="content">
-                {{ content }}
-            </section>
-        </article>
+                    <div id="wrapper">
+                        {% include header.html %}
 
-        {% include footer.html %}
+                        <article id="main">
+                            {{ content }}
+                        </article>
 
-    </body>
-</html>
+                        {% include footer.html %}
+                    </div>
+
+                </body>
+            </html>

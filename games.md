@@ -2,9 +2,15 @@
 title: Games
 date: 2019-05-31 13:41:00 +02:00
 position: 3
-Field name: 
+Field name:
 layout: home
 menu: true
+slider:
+  slides:
+    - image: /assets/images/bishi-bashi-l.jpg
+    - image: /assets/images/shuffleboard-l.jpg
+    - image: /assets/images/terminator-ball-l.jpg
+    - image: /assets/images/crazy-light-l.jpg
 ---
 
 # Watch it or play it!

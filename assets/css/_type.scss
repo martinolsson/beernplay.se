@@ -1,3 +1,12 @@
+// h1,
+// h2,
+// h3,
+// p,
+// a {
+//   padding: $base-space/3;
+//   background: rgba(0, 0, 0, 0.666);
+// }
+
 h1 {
   font-size: $base-font-size * 4;
   font-family: Trend;
@@ -20,8 +29,26 @@ h2 {
 
 h3 {
   font-size: $base-font-size * 1.2;
-  margin: 0;
   font-weight: bold;
+  margin-bottom: $base-space;
+}
+
+h2,
+h3 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  min-width: 300px;
+  span {
+    margin: 0 $base-space / 2;
+    font-size: $base-font-size;
+    color: $subdued-text-color;
+  }
+  strong {
+    margin-left: auto;
+    font-size: $base-font-size * 1.2;
+    font-weight: bold;
+  }
 }
 
 p {

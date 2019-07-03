@@ -1,16 +1,17 @@
 <ul class="button-menu">
-    {% assign sorted_pages = site.pages | sort:"position" %}
-    {% for node in sorted_pages  %}
-        {% if node.menu %}
-            {% if page.url == node.url %}
-                <li class="active">
-                    <a href="{{node.url}}" class="active">{{node.title}}</a>
-                </li>
-            {% else %}
-                <li>
-                    <a href="{{node.url}}">{{node.title}}</a>
-                </li>
-            {% endif %}
-        {% endif %}
-    {% endfor %}
-</ul>
+                {% assign sorted_pages = site.pages | sort:"position" %}
+                {% for node in
+  sorted_pages %}
+                    {% if node.menu %}
+                        {% if page.url == node.url %}
+                            <li class="active">
+                                <a href="{{ node.url }}" class="active">{{ node.title }}</a>
+                            </li>
+                        {% else %}
+                            <li>
+                                <a href="{{ node.url }}">{{ node.title }}</a>
+                            </li>
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            </ul>

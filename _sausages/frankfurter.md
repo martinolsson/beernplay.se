@@ -5,4 +5,4 @@ info: pork, calf
 price: 109
 ---
 
-Saurekraut, bacon, dijonnaise, baguette
+Saurekraut, bacon, dijonnaise, baguette.

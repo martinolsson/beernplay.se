@@ -18,6 +18,7 @@ $break-large: 1200px;
 @import "reset";
 @import "type";
 @import "food";
+@import "kenb";
 
 @font-face {
   font-family: "Trend";
@@ -40,7 +41,6 @@ body {
   min-height: 100vh;
   flex-direction: column;
   margin: 0;
-  max-width: 1140px;
   margin: 0 auto;
 }
 
@@ -75,9 +75,6 @@ body {
 #main {
   flex-grow: 1;
   padding: 0 $base-space $base-space $base-space;
-}
-
-#content {
 }
 
 header {

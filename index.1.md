@@ -2,10 +2,16 @@
 title: Beer n' Play
 position: 0
 landing-title: Welcome to Beer n' Play
-description: 
+description:
 image: bnp-on-white.png
-author: 
+author:
 layout: home
+slider:
+  slides:
+    - image: /assets/images/beer1-l.jpg
+    - image: /assets/images/pinball-l.jpg
+    - image: /assets/images/people1-l.jpg
+    - image: /assets/images/people2-l.jpg
 ---
 
 # Hi there!
@@ -14,7 +20,9 @@ layout: home
     {% include hours.html %}
 </div>
 
-We just opened! Our bar is on Hornsgatan 138. We have a super nice outdoor seating area. Come have a beer and play a game!
+### We just opened! Our bar is on Hornsgatan 138. We have a super nice outdoor seating area. Come have a beer and play a game!
+
+Kamal, who has many years of experience of Pizza Napolitana from Italy, bakes our pizza in a genuine Italian oven that can keep an even 450 degrees during the 90 seconds it takes for the pizza to be perfectly done.
 
 <hr>
 

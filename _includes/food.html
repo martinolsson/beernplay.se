@@ -7,21 +7,31 @@
 
         <section class="{{section.title}}">
             <h2>{{section.title}}</h2>
-            {% assign items = site[name] | sort: 'position' %}
-            {% for item in items %}
-                <h3>{{item.title}}
-                    {% if item.info != nil %}
-                        <span>({{item.info}})</span>
-                    {% endif %}
-                    {% if item.price != nil %}
-                        <strong>{{item.price}}:-</strong>
-                    {% endif %}
-                </h3>
-                {{item.content}}
-            {% endfor %}
+            {% if section.picture %}
+                <img src="{{ section.picture }}" alt="{{ section.title | downcase }}" style="width: 150%">
+            {% endif %}
             {% if section.description != nil %}
                 <p class="description">{{section.description}}</p>
             {% endif %}
+
+            {% assign items = site[name] | sort: 'position' %}
+            {% for item in items %}
+                <article>
+                    <h3>{{item.title}}
+                        {% if item.info != nil %}
+                            <span>({{item.info}})</span>
+                        {% endif %}
+                        {% if item.price != nil %}
+                            <strong>{{item.price}}:-</strong>
+                        {% endif %}
+                    </h3>
+                    {{item.content}}
+                </article>
+            {% endfor %}
+            {% if section.info != nil %}
+                <p class="info">{{section.info}}</p>
+            {% endif %}
+
         </section>
 
     {% endfor %}
