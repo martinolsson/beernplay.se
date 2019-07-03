@@ -16,11 +16,11 @@ layout: home
 
 # Hi there!
 
+### We just opened! Our bar is on Hornsgatan 138. We have a super nice outdoor seating area. Come have a beer and play a game!
+
 <div class="box styled right">
 {% include hours.html %}
 </div>
-
-### We just opened! Our bar is on Hornsgatan 138. We have a super nice outdoor seating area. Come have a beer and play a game!
 
 Kamal, who has many years of experience of Pizza Napolitana from Italy, bakes our pizza in a genuine Italian oven that can keep an even 450 degrees during the 90 seconds it takes for the pizza to be perfectly done.
 
