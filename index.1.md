@@ -2,15 +2,15 @@
 title: Beer n' Play
 position: 0
 landing-title: Welcome to Beer n' Play
-description: 
+description:
 image: bnp-on-white.png
-author: 
+author:
 slider:
   slides:
-  - image: "/assets/images/beer1-l.jpg"
-  - image: "/assets/images/pinball-l.jpg"
-  - image: "/assets/images/indoor1-l.jpg"
-  - image: "/assets/images/people2-l.jpg"
+    - image: "/uploads/beer1-l.jpg"
+    - image: "/uploads/pinball-l.jpg"
+    - image: "/uploads/indoor1-l.jpg"
+    - image: "/uploads/people2-l.jpg"
 layout: home
 ---
 

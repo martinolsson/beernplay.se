@@ -9,7 +9,7 @@ collections:
     info: Fries included with all burgers.<br> Sweet potato fries 15:- extra
     type: food
     position: 4
-    picture: "/assets/images/burger1-s.jpg"
+    picture: "/uploads/burger1-s.jpg"
   desserts:
     title: Desserts
     output: false
@@ -26,14 +26,15 @@ collections:
     info: Don't forget sides!
     type: food
     position: 1
-    picture: "/assets/images/frankfurter-s.jpg"
+    picture: "/uploads/frankfurter-s.jpg"
   pizza:
     title: Pizza
     output: false
     type: food
     position: 7
-    picture: "/assets/images/primavera-s.jpg"
-    description: We make genuine Pizza Napolitana with a traditional thick sourdough
+    picture: "/uploads/primavera-s.jpg"
+    description:
+      We make genuine Pizza Napolitana with a traditional thick sourdough
       crust. Put pizza in mouth now.
   posts:
     title: Posts
@@ -43,19 +44,19 @@ collections:
     output: false
     type: food
     position: 5
-    picture: "/assets/images/asiancaesar2-s.jpg"
+    picture: "/uploads/asiancaesar2-s.jpg"
   sides:
     title: Sides
     output: false
     type: food
     position: 2
-    picture: "/assets/images/fries-s.jpg"
+    picture: "/uploads/fries-s.jpg"
   specials:
     title: Specials
     output: false
     type: food
     position: 6
-    picture: "/assets/images/bookmaker-s.jpg"
+    picture: "/uploads/bookmaker-s.jpg"
   uploads:
     title: Uploads
     output: true
