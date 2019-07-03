@@ -9,7 +9,7 @@ slider:
   slides:
   - image: "/assets/images/beer1-l.jpg"
   - image: "/assets/images/pinball-l.jpg"
-  - image: "/assets/images/people1-l.jpg"
+  - image: "/assets/images/indoor1-l.jpg"
   - image: "/assets/images/people2-l.jpg"
 layout: home
 ---
