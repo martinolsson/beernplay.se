@@ -2,15 +2,15 @@
 title: Beer
 date: 2019-05-31 13:41:00 +02:00
 position: 1
-Field name:
+Field name: 
 layout: home
 menu: true
 slider:
   slides:
-    - image: "/uploads/beer1-l.jpg"
-    - image: "/uploads/iris-the-dog-l.jpg"
-    - image: "/uploads/cheers-l.jpg"
-    - image: "/uploads/sina-l.jpg"
+  - image: "/uploads/beer1-l.jpg"
+  - image: "/uploads/iris-the-dog-l.jpg"
+  - image: "/uploads/cheers-l.jpg"
+  - image: "/uploads/sina-l.jpg"
 ---
 
 # We love beer!

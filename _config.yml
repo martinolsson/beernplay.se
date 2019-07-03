@@ -33,8 +33,7 @@ collections:
     type: food
     position: 7
     picture: "/uploads/primavera-s.jpg"
-    description:
-      We make genuine Pizza Napolitana with a traditional thick sourdough
+    description: We make genuine Pizza Napolitana with a traditional thick sourdough
       crust. Put pizza in mouth now.
   posts:
     title: Posts
