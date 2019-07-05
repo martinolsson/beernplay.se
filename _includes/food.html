@@ -8,7 +8,7 @@
         <section class="{{section.title}}">
             <h2>{{section.title}}</h2>
             {% if section.picture %}
-                <img src="{{ section.picture }}" alt="{{ section.title | downcase }}" style="width: 150%">
+                {% include picture.html pic=section.picture %}
             {% endif %}
             {% if section.description != nil %}
                 <p class="description">{{section.description}}</p>
