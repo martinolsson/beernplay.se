@@ -15,6 +15,7 @@ collections:
     output: false
     type: food
     position: 8
+    picture: "/uploads/cheesecake-sm"
   dips:
     title: Dips
     output: false
