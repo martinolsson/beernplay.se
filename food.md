@@ -2,15 +2,15 @@
 title: Food
 date: 2019-05-31 13:41:00 +02:00
 position: 2
-Field name:
+Field name: 
 layout: home
 menu: true
 slider:
   slides:
-    - image: "/uploads/oven-lg_1x.jpg"
-    - image: "/uploads/makingpizza3-lg_1x.jpg"
-    - image: "/uploads/fries-lg_1x.jpg"
-    - image: "/uploads/korean-lg_1x.jpg"
+  - image: "/uploads/oven-lg_1x.jpg"
+  - image: "/uploads/makingpizza3-lg_1x.jpg"
+  - image: "/uploads/fries-lg_1x.jpg"
+  - image: "/uploads/korean-lg_1x.jpg"
 ---
 
 # Eat your heart out
