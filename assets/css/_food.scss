@@ -1,4 +1,5 @@
-.food-menu {
+.food-menu,
+.games-menu {
   margin: 3 * $base-space 0;
   column-count: 3;
   column-gap: 3 * $base-space;
@@ -23,6 +24,25 @@
     .info {
       margin-top: $base-space;
       color: $subdued-text-color;
+    }
+  }
+
+  h2,
+  h3 {
+    margin-top: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    min-width: 300px;
+    span {
+      margin: 0 $base-space / 2;
+      font-size: $base-font-size;
+      color: $subdued-text-color;
+    }
+    strong {
+      margin-left: auto;
+      font-size: $base-font-size * 1.2;
+      font-weight: bold;
     }
   }
 }

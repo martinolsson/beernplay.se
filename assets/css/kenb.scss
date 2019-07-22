@@ -8,7 +8,7 @@
   margin: 0 auto;
   min-height: 100vh;
   width: 100%;
-  max-width: 1400px;
+  max-width: 1180px;
   box-shadow: 0 0 2 * $base-space rgba(0, 0, 0, 0.666);
 }
 
@@ -31,8 +31,8 @@
   animation-timing-function: linear;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  -webkit-animation-duration: 16s;
-  animation-duration: 16s;
+  -webkit-animation-duration: 32s;
+  animation-duration: 32s;
   opacity: 1;
   -webkit-transform: scale(1.2);
   transform: scale(1.2);

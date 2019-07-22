@@ -74,6 +74,21 @@ body {
 #main {
   flex-grow: 1;
   padding: 0 2 * $base-space 2 * $base-space 2 * $base-space;
+
+  ol,
+  ul {
+    padding: 0 0 0 20px;
+  }
+
+  ol,
+  ul {
+    list-style: circle;
+  }
+
+  li:before {
+    content: "\1F37A";
+    margin-left: -20px;
+  }
 }
 
 header {
@@ -99,6 +114,7 @@ header {
 }
 
 footer {
+  clear: both;
   border-top: 1px dashed $subdued-border-color;
   color: rgba($text-color, 0.5);
   padding: $base-space;
@@ -110,6 +126,7 @@ footer {
   }
 
   a {
+    text-decoration: none;
     color: $subdued-text-color;
 
     display: inline-block;
@@ -117,9 +134,6 @@ footer {
 
     padding: $base-space/2 0;
     &:hover {
-      text-decoration: none;
-      color: $text-color;
-
       &:after,
       &:before {
         content: "•";
@@ -162,7 +176,7 @@ footer {
     border: 3px solid $border-color;
     border-radius: 5px;
     text-decoration: none;
-    transition: 1s;
+
     &:hover,
     &.active {
       text-decoration: none;
