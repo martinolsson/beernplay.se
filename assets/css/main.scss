@@ -9,7 +9,7 @@ $subdued-text-color: rgba(255, 255, 255, 0.5);
 $border-color: rgba(255, 255, 255, 0.8);
 $subdued-border-color: rgba(255, 255, 255, 0.3);
 $bnp-red: #cf2430;
-$base-font-size: 16px;
+$base-font-size: 18px;
 $base-space: 16px;
 $break-small: 620px;
 $break-medium: 920px;
@@ -75,19 +75,18 @@ body {
   flex-grow: 1;
   padding: 0 2 * $base-space 2 * $base-space 2 * $base-space;
 
+  @media screen and (max-width: $break-small) {
+    padding: 0 $base-space $base-space $base-space;
+  }
+
   ol,
   ul {
-    padding: 0 0 0 20px;
+    padding: 0 0 $base-space 20px;
   }
 
   ol,
   ul {
     list-style: circle;
-  }
-
-  li:before {
-    content: "\1F37A";
-    margin-left: -20px;
   }
 }
 
@@ -184,9 +183,10 @@ footer {
       color: $bnp-red;
     }
     @media screen and (max-width: $break-small) {
-      font-size: $base-font-size;
+      font-size: $base-font-size * 0.9;
       margin: $base-space / 3;
       padding: $base-space / 3 $base-space;
+      padding-top: 4px; // Oswald is strange
     }
   }
 }
@@ -284,6 +284,9 @@ img {
     width: 50%;
     margin-right: 2 * $base-space;
   }
+  @media screen and (max-width: $break-small) {
+    float: none;
+  }
 }
 
 .logo:hover {
@@ -356,6 +359,9 @@ img {
 }
 
 .box {
+  table {
+    width: 100%;
+  }
   &.styled {
     border: 2px double $subdued-border-color;
     padding: $base-space / 2;
@@ -370,5 +376,9 @@ img {
     float: left;
     margin-right: $base-space;
     margin-left: 0;
+  }
+  @media screen and (max-width: $break-small) {
+    float: none !important;
+    margin: 0 !important;
   }
 }

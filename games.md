@@ -2,32 +2,24 @@
 title: Games
 date: 2019-05-31 13:41:00 +02:00
 position: 3
-Field name: 
+Field name:
 layout: home
 menu: true
 slider:
   slides:
-  - image: "/uploads/bishi-bashi-lg_1x.jpg"
-  - image: "/uploads/shuffleboard-lg_1x.jpg"
-  - image: "/uploads/terminator-ball-lg_1x.jpg"
-  - image: "/uploads/crazy-light-lg_1x.jpg"
+    - image: "/uploads/bishi-bashi-lg_1x.jpg"
+    - image: "/uploads/shuffleboard-lg_1x.jpg"
+    - image: "/uploads/terminator-ball-lg_1x.jpg"
+    - image: "/uploads/crazy-light-lg_1x.jpg"
 ---
 
 # Watch it or play it!
 
-### We have lots of large TV:s, check out our match schedule down below. We also have pool tables, shuffle board, pinball machines, arcade games and board games.
+### We show the best matches on our 8 huge TVs. We also have pool tables, shuffle board, pinball machines, arcade games and board games.
 
-Any games you’d like to see in here? Let us know and maybe your wishes can come true! What you waiting for? Time to Beer n’ Play!
+Any games you’d like to see in here? Let us know and maybe your wishes can come true! What ya waiting for? Time to Beer n’ Play!
 
 <div class="games-menu" markdown="1">
-
-<section markdown="1">
-
-## Matches on TV
-
-{% include picture.html pic="/uploads/shuffleboard-sm" %}
-
-</section>
 
 <section markdown="1">
 
@@ -35,25 +27,29 @@ Any games you’d like to see in here? Let us know and maybe your wishes can com
 
 {% include picture.html pic="/uploads/shuffleboard-sm" %}
 
-Most of our games work with tokens that you buy from a machine. 50:- gets you 5 tokens.
+Most of our games work with tokens that you buy from a machine.
 
 ### Shuffleboard
 
-Shuffleboard is 75:- per hour. Get the kit in the bar. If you book a table to eat you can also book shuffleboards.
+We have four shuffleboard tables - get the kit in the bar. Friday and Saturday the price per hour is 75 kr per person or 250 kr for 4 players. Other days 50 kr per person or 150 kr for 4 players.
 
 ### Billiards
 
-We have two pool tables. Get your snooker on. Buy tokens in the machine.
+We have two billiard tables. Buy tokens in the machine.
 
 ### Pinball
 
-Tilt The Wall in the fast paced Game of Thrones pinball, or play ###.
+Tilt The Wall in the fast paced Game of Thrones pinball, or play Guardians of the Galaxy. Buy tokens in the machine.
 
 ### Arcade
 
 {% include picture.html pic="/uploads/crazy-light-2-sm" %}
 
 We have classic arcade games and modern favourites like Bishi Bashi and Terminator.
+
+### Games that make you sweat
+
+Measure your super-strength with our boxing game or shoot some hoops with our basket ball game. Air hockey, when played right, will also make you sweat.
 
 </section>
 

@@ -1,5 +1,5 @@
 ---
-title: Capriciosa
+title: Capricciosa
 position: 3
 price: 145
 ---

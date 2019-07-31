@@ -46,3 +46,10 @@
     }
   }
 }
+
+.games-menu {
+  column-count: 2;
+  @media screen and (max-width: $break-small) {
+    column-count: 1;
+  }
+}

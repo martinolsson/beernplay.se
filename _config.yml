@@ -5,7 +5,6 @@ collections:
   burgers:
     title: Burgers
     output: false
-    description: Our burgers are made with love and cooked to perfection. Enjoy!
     info: Fries included with all burgers.<br> Sweet potato fries 15:- extra
     type: food
     position: 4
@@ -15,7 +14,7 @@ collections:
     output: false
     type: food
     position: 8
-    picture: "/uploads/cheesecake-sm"
+    picture: "/uploads/nutellaroll-sm"
   dips:
     title: Dips
     output: false
@@ -24,7 +23,6 @@ collections:
   sausages:
     title: Korv
     output: false
-    description: The best hotdogs in town!
     info: Don't forget sides!
     type: food
     position: 1
@@ -35,8 +33,6 @@ collections:
     type: food
     position: 7
     picture: "/uploads/primavera-sm"
-    description: We make genuine Pizza Napolitana with a traditional thick sourdough
-      crust. Put pizza in mouth now.
   posts:
     title: Posts
     output: true
@@ -61,9 +57,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-phone: '08-420 505 69'
+phone: "08-420 505 69"
 email: bar@beernplay.se
-address: Beern n' Play, Hornsgatan 138 Stockholm
+address: Hornsgatan 138 Stockholm
 maps: https://goo.gl/maps/Lzw12C63Pt6gnJ6E7
 facebook: https://www.facebook.com/beernplay/
 instagram: https://www.instagram.com/beernplay/

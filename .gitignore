@@ -5,5 +5,5 @@ _site/
 
 node_modules
 
-./imagelab/src/
-./imagelab/dest/
+imagelab/src/
+imagelab/dest/
