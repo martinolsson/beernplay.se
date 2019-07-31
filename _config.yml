@@ -57,7 +57,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-phone: "08-420 505 69"
+phone: '08-420 505 69'
 email: bar@beernplay.se
 address: Hornsgatan 138 Stockholm
 maps: https://goo.gl/maps/Lzw12C63Pt6gnJ6E7
