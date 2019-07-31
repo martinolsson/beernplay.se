@@ -1,5 +1,5 @@
 ---
-title: Bloody
+title: Vegan (Beyond Burger)
 position: 4
 price: 159
 info: vegan
