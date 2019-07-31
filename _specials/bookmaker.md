@@ -4,4 +4,4 @@ position: 1
 price: 235
 ---
 
-Toasted levain, dijon mustard, filét of beef, horse radish, eggyolk. Served with a tomato sallad.
+Beef tenderloin, toasted levain bread, dijon mustard, horseradish, egg yolk. Served with a tomato sallad.
