@@ -1,7 +1,7 @@
 ---
 title: Classic
 position: 1
-info: 180g brisket
+info: 180g ribs, brisket
 price: 139
 ---
 
