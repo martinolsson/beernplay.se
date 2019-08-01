@@ -1,14 +1,6 @@
 ---
 title: Beer n' Play
 timezone: Europe/Stockholm
-description: Craft beer, fun and food. New bar on Hornsgatan 138, Stockholm.
-phone: "08-42050569"
-email: bar@beernplay.se
-address: Hornsgatan 138 Stockholm
-maps: https://goo.gl/maps/Lzw12C63Pt6gnJ6E7
-facebook: https://www.facebook.com/beernplay/
-instagram: https://www.instagram.com/beernplay/
-untappd: https://untappd.com/v/beer-n-play/8976477
 collections:
   burgers:
     title: Burgers
@@ -65,5 +57,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+description: Craft beer, fun and food. New bar on Hornsgatan 138, Stockholm.
+phone: '08-42050569'
+email: bar@beernplay.se
+address: Hornsgatan 138 Stockholm
+maps: https://goo.gl/maps/Lzw12C63Pt6gnJ6E7
+facebook: https://www.facebook.com/beernplay/
+instagram: https://www.instagram.com/beernplay/
+untappd: https://untappd.com/v/beer-n-play/8976477
 sass:
   sass_dir: assets/css
