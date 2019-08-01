@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 
-            <html lang="en">
-                {% include head.html %}
+<html lang="en">
+    {% include head.html %}
 
-                <body>
-                    {% if page.slider %}
-                        {% include ken.html %}
-                    {% endif %}
+    <body>
+        {% if page.slider %}
+            {% include ken.html %}
+        {% endif %}
 
-                    <div id="wrapper">
-                        {% include header.html %}
+        <div id="wrapper">
+            {% include header.html %}
 
-                        <article id="main">
-                            {{ content }}
-                        </article>
+            <article id="main">
+                {{ content }}
+            </article>
 
-                        {% include footer.html %}
-                    </div>
+            {% include footer.html %}
+        </div>
 
-                </body>
-            </html>
+    </body>
+</html>

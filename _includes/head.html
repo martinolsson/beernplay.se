@@ -1,10 +1,13 @@
 <head>
     <title>{{ site.title }}</title>
-    <meta description="{{ site.description }}"/>
     <meta charset="utf-8"/>
+    <meta content="{{ site.description }}" property="description"/>
     <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
-    <meta content="Beer n' Play" property="og:title">
-    <meta content="Craft Beer and Games. Hornsgatan 138, Stockholm." property="og:description">
+    <meta content="{{ site.title }}" property="og:title">
+    <meta content="{{ site.description }}" property="og:description">
+    <meta content="http://beernplay.se" property="og:url">
+    <meta content="/assets/images/bnp-on-white-small.png" property="og:image">
+    <meta content="website" property="og:type">
     <link href="/assets/css/main.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,500&display=block" rel="stylesheet">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144943286-1"></script>
