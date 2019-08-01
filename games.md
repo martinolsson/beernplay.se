@@ -2,15 +2,15 @@
 title: Games
 date: 2019-05-31 13:41:00 +02:00
 position: 3
-Field name: 
+Field name:
 layout: home
 menu: true
 slider:
   slides:
-  - image: "/uploads/bishi-bashi-lg_1x.jpg"
-  - image: "/uploads/shuffleboard-lg_1x.jpg"
-  - image: "/uploads/terminator-ball-lg_1x.jpg"
-  - image: "/uploads/crazy-light-lg_1x.jpg"
+    - image: "/uploads/bishi-bashi-lg_1x.jpg"
+    - image: "/uploads/shuffleboard-lg_1x.jpg"
+    - image: "/uploads/terminator-ball-lg_1x.jpg"
+    - image: "/uploads/crazy-light-lg_1x.jpg"
 ---
 
 # Watch it or play it
@@ -25,7 +25,7 @@ Any games you’d like to see in here? Let us know and maybe your wishes can com
 
 ## Bar games
 
-{% include picture.html pic="/uploads/shuffleboard-sm" %}
+{% include picture.html pic="/uploads/shuffleboard-sm" alt="Shuffleboard" %}
 
 Most of our games work with tokens that you buy from a machine.
 
@@ -43,7 +43,7 @@ Tilt The Wall in the fast paced Game of Thrones pinball, or play Guardians of th
 
 ### Arcade
 
-{% include picture.html pic="/uploads/crazy-light-2-sm" %}
+{% include picture.html pic="/uploads/crazy-light-2-sm" alt="Crazy Light" %}
 
 We have classic arcade games and modern favourites like Bishi Bashi and Terminator.
 
@@ -57,7 +57,7 @@ Measure your super-strength with our boxing game or shoot some hoops with our ba
 
 ## Board games
 
-{% include picture.html pic="/uploads/boardgames-sm" %}
+{% include picture.html pic="/uploads/boardgames-sm" alt="Boardgames" %}
 
 We have a large selection of modern and classic board games. Here's a list:
 
