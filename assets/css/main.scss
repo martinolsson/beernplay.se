@@ -227,10 +227,11 @@ footer {
 }
 
 table {
+  border-spacing: 0;
+  border-collapse: separate;
   td,
   th {
-    padding: $base-space / 2 $base-space;
-    // border-bottom: 1px solid $subdued-border-color;
+    padding: $base-space / 2 $base-space / 2;
   }
   th {
     font-size: $base-font-size * 1.2;
@@ -359,17 +360,29 @@ img {
     margin: $base-space;
   }
   &.right {
+    width: 32%;
     float: right;
     margin-left: $base-space;
     margin-right: 0;
   }
   &.left {
+    width: 32%;
     float: left;
     margin-right: $base-space;
     margin-left: 0;
   }
+  @media screen and (max-width: $break-medium) {
+    width: 50% !important;
+  }
   @media screen and (max-width: $break-small) {
+    width: 100% !important;
     float: none !important;
     margin: 0 !important;
   }
+}
+
+.center {
+  clear: both;
+  margin: 0 auto;
+  text-align: center;
 }

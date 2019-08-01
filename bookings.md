@@ -2,15 +2,15 @@
 title: Bookings
 date: 2019-05-31 13:41:00 +02:00
 position: 4
-Field name: 
+Field name:
 layout: home
 menu: true
 slider:
   slides:
-  - image: "/uploads/caesar-lg_1x.jpg"
-  - image: "/uploads/korean-lg_1x.jpg"
-  - image: "/uploads/outdoors2-lg_1x.jpg"
-  - image: "/uploads/makingpizza1-lg_1x.jpg"
+    - image: "/uploads/caesar-lg_1x.jpg"
+    - image: "/uploads/korean-lg_1x.jpg"
+    - image: "/uploads/outdoors2-lg_1x.jpg"
+    - image: "/uploads/makingpizza1-lg_1x.jpg"
 ---
 
 # Bring the party
@@ -30,6 +30,6 @@ Can't get enough of our delicious pizzas and burgers? Have a little bit of Beer 
 
 We work with Wolt - click on the logo to order for delivery or take-out. Wolt also has a nifty app.
 
-<center style="clear:both">
+<div class="center">
 <a target="_blank" href="https://wolt.com/en/swe/stockholm/restaurant/beer-n-play"><img src="../assets/images/wolt-logo.png" alt="Wolt Logo" style="width: 146px "></a>
-</center>
+</div>
