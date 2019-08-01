@@ -15,7 +15,7 @@
         resolution: 'standard_resolution',
         accessToken: '{{ include.accessToken }}',
         clientId: '{{ include.clientId }}',
-        template: '<a href="{% raw %}{{link}}{% endraw %}" target="_blank"><img src="{% raw %}{{image}}{% endraw %}" /></a>'
+        template: '<a href="{% raw %}{{link}}{% endraw %}" target="_blank"><img src="{% raw %}{{image}}{% endraw %}" title="{% raw %}{{caption}}{% endraw %}"/></a>'
     });
     feed.run();
 </script>
