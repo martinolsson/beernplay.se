@@ -2,15 +2,15 @@
 title: Games
 date: 2019-05-31 13:41:00 +02:00
 position: 3
-Field name: 
+Field name:
 layout: home
 menu: true
 slider:
   slides:
-  - image: "/uploads/bishi-bashi-lg_1x.jpg"
-  - image: "/uploads/shuffleboard-lg_1x.jpg"
-  - image: "/uploads/terminator-ball-lg_1x.jpg"
-  - image: "/uploads/crazy-light-lg_1x.jpg"
+    - image: "/uploads/bishi-bashi-lg_1x.jpg"
+    - image: "/uploads/shuffleboard-lg_1x.jpg"
+    - image: "/uploads/terminator-ball-lg_1x.jpg"
+    - image: "/uploads/crazy-light-lg_1x.jpg"
 ---
 
 # Watch it or play it
@@ -57,7 +57,7 @@ Measure your super-strength with our boxing game or shoot some hoops with our ba
 
 ## Board games
 
-{% include picture.html pic="/uploads/boardgames-sm" alt="Boardgames" %}
+{% include picture.html pic="/uploads/boardgames-sm" alt="Board games" %}
 
 We have a large selection of modern and classic board games. Here's a list:
 
@@ -85,6 +85,6 @@ We have a large selection of modern and classic board games. Here's a list:
 
 Great selection, right?!
 
-As you might know, all the games are free to play, we just ask you for some love, care and an ID to make sure the games return safe, sound and in one piece (or many).
+As you might know, all the board games are free to play, we just ask you for some love, care and an ID to make sure the games return safe, sound and in one piece (or many).
 
 </section>
