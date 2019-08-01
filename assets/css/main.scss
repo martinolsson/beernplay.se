@@ -239,6 +239,7 @@ table {
 }
 
 #instafeed {
+  clear: both;
   column-gap: $base-space;
   column-fill: balance;
   column-count: 1;
