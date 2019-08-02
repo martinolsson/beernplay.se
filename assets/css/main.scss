@@ -412,6 +412,14 @@ img {
   }
 }
 
+.credits,
+.credits > a {
+  text-align: center;
+  color: $subdued-border-color;
+  font-size: 16px;
+  padding-bottom: $base-space * 2;
+}
+
 .center {
   clear: both;
   margin: 0 auto;

@@ -16,6 +16,13 @@
             </article>
 
             {% include footer.html %}
+
+            {% if page.name == 'index.md' %}
+                <div class="credits">Photos by
+                    <a href="https://www.instagram.com/danielalbertofoto/" target="_blank">Daniel Martinez</a>
+                    et al. Web by Martin Olsson.
+                </div>
+            {% endif %}
         </div>
 
     </body>
