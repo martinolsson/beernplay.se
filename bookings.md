@@ -3,7 +3,6 @@ title: Bookings
 date: 2019-05-31 13:41:00 +02:00
 position: 4
 Field name: 
-layout: home
 menu: true
 slider:
   slides:
@@ -11,6 +10,7 @@ slider:
   - image: "/uploads/korean-lg_1x.jpg"
   - image: "/uploads/outdoors2-lg_1x.jpg"
   - image: "/uploads/makingpizza1-lg_1x.jpg"
+layout: home
 ---
 
 # Bring the party
@@ -20,7 +20,7 @@ slider:
 ## Our phone number is <a href="tel:{{site.phone}}">{{site.phone}}</a> and our email is <a href="mailto:{{site.email}}">{{site.email}}</a>.
 
 - You can only make bookings if you want to eat. We always have room for beer drinkers!
-- If you're a big group (8 people or more) you need to pre-order your food. Here's the <a href="food.html">menu.</a>
+- If you're a big group (8 people or more) you need to pre-order your food.
 - Please make your booking 24 hours in advance. If you're a big group give us 48 hours.
 - Make all food and drink orders at the bar.
 
