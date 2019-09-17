@@ -3,7 +3,7 @@ title: Food
 date: 2019-05-31 13:41:00 +02:00
 position: 2
 Field name: 
-menu: true
+menu: false
 slider:
   slides:
   - image: "/uploads/oven-lg_1x.jpg"
