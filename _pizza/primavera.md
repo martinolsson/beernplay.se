@@ -1,7 +1,7 @@
 ---
 title: Primavera
 position: 5
-price: 155
+price: 145
 ---
 
-Provola, fresh cherry tomatoes, Prosciutto Crudo, ruccola, parmesan flakes & basil.
+Provola, cherry tomatoes, prosciutto crudo, rocket, parmesan flakes, basil.
