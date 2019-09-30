@@ -23,7 +23,7 @@ collections:
   sausages:
     title: Korv
     output: false
-    info: Don't forget sides!
+    info: "All hot dogs are served with fries.\nSweet potato fries 15:- extra. "
     type: food
     position: 1
     picture: "/uploads/frankfurter-sm"
