@@ -30,7 +30,7 @@ collections:
     type: food
     position: 1
   pizza:
-    title: Pizza
+    title: Pizza Napoletana
     output: false
     type: food
     position: 7
