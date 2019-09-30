@@ -4,4 +4,4 @@ position: 1
 price: 115
 ---
 
-San Marzano tomatoes, Fior di Latte & basil.
+San Marzano tomatoes, Fior di Latte, basil.
