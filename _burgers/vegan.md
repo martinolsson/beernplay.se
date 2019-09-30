@@ -1,8 +1,8 @@
 ---
 title: Vegan
 position: 4
-price: 159
+price: 169
 info: Beyond Burger
 ---
 
-Beetroot mayonnaise, lettuce, silverskin onion, roasted onion, vegan cheese.
+Beetroot mayo, vegan cheese, tomato, crisp lettuce, silver onion, sourdough bread.
