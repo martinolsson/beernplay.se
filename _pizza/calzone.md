@@ -4,4 +4,4 @@ position: 6
 price: 135
 ---
 
-San Marzano tomatoes, Fior di Latte, mushrooms & Prosciutto Cotto.
+San Marzano tomato sauce, Fior di Latte, prosciutto cotto, champignons.
