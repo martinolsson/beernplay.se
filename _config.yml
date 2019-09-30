@@ -7,7 +7,6 @@ collections:
     output: false
     type: food
     position: 2
-    picture: "/uploads/fries-sm"
   burgers:
     title: Burgers
     output: false
