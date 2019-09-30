@@ -1,6 +1,6 @@
 ---
 title: Classic Cheeseburger
-position: 1
+position: 2
 info: 180g ribs, brisket
 price: 149
 ---
