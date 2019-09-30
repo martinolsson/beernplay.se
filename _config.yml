@@ -50,7 +50,6 @@ collections:
     output: false
     type: food
     position: 6
-    picture: "/uploads/bookmaker-sm"
   uploads:
     title: Uploads
     output: true
