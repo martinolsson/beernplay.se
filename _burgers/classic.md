@@ -1,8 +1,8 @@
 ---
-title: Classic
+title: Classic Cheeseburger
 position: 1
 info: 180g ribs, brisket
-price: 139
+price: 149
 ---
 
-Mayonnaise, lettuce, tomato, silverskin onion, cheddar cheese, brioche.
+Mayo, cheddar, tomato, crisp lettuce, silver onion.
