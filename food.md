@@ -8,7 +8,6 @@ slider:
   slides:
   - image: "/uploads/oven-lg_1x.jpg"
   - image: "/uploads/makingpizza3-lg_1x.jpg"
-  - image: "/uploads/fries-lg_1x.jpg"
   - image: "/uploads/korean-lg_1x.jpg"
 layout: home
 ---
