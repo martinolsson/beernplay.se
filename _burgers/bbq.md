@@ -1,6 +1,6 @@
 ---
 title: BBQ Burger
-position: 3
+position: 1
 info: 180g ribs, brisket
 price: 169
 ---
