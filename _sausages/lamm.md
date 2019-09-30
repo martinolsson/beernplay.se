@@ -1,8 +1,8 @@
 ---
-title: Lamb sausage
+title: Lamb Parmesan
 position: 4
 info: lamb, pork
-price: 119
+price: 139
 ---
 
-Chimichurri, parmesan mayonnaise, brioche.
+Chimichurri, parmesan mayo.
