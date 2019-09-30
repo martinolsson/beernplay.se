@@ -1,6 +1,7 @@
 ---
 title: Sfilatino
 date: 2019-10-01 01:36:00 +02:00
+position: 8
 price: 155 :-
 ---
 
