@@ -43,7 +43,6 @@ collections:
     output: false
     type: food
     position: 5
-    picture: "/uploads/asiancaesar2-sm"
   specials:
     title: Specials
     output: false
