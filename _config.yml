@@ -37,7 +37,6 @@ collections:
     output: false
     type: food
     position: 7
-    picture: "/uploads/primavera-sm"
   posts:
     title: Posts
     output: true
