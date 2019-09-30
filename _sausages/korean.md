@@ -1,8 +1,8 @@
 ---
-title: The Korean
+title: Korean Black Garlic
 position: 1
 info: pork
-price: 119
+price: 139
 ---
 
-Korean pickles, kimchi mayonnaise, brioche.
+Korean pickles, kimchi mayo, roasted sesame seeds.
