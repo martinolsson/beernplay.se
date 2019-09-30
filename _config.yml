@@ -2,6 +2,12 @@
 title: Beer n' Play
 timezone: Europe/Stockholm
 collections:
+  sides:
+    title: Bar Menu
+    output: false
+    type: food
+    position: 2
+    picture: "/uploads/fries-sm"
   burgers:
     title: Burgers
     output: false
@@ -42,12 +48,6 @@ collections:
     type: food
     position: 5
     picture: "/uploads/asiancaesar2-sm"
-  sides:
-    title: Sides
-    output: false
-    type: food
-    position: 2
-    picture: "/uploads/fries-sm"
   specials:
     title: Specials
     output: false
