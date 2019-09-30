@@ -14,7 +14,6 @@ collections:
     info: Fries included with all burgers.<br> Sweet potato fries 15:- extra
     type: food
     position: 4
-    picture: "/uploads/burger1-sm"
   desserts:
     title: Desserts
     output: false
