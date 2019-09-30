@@ -2,7 +2,7 @@
 title: BBQ Burger
 position: 2
 info: 180g ribs, brisket
-price: 159
+price: 169
 ---
 
-BBQ mayonnaise, lettuce, silverskin onion, cheddar cheese, bacon, jalapeño, brioche.
+BBQ mayo, bacon, jalapeño, cheddar, crisp lettuce, silver onion.
