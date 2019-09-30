@@ -18,7 +18,6 @@ collections:
     output: false
     type: food
     position: 8
-    picture: "/uploads/nutellaroll-sm"
   dips:
     title: Dips
     output: false
