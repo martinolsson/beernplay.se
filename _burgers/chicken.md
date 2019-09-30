@@ -1,7 +1,7 @@
 ---
 title: Creamy chicken
 position: 3
-price: 149
+price: 159
 ---
 
-Herb mayonnaise, lettuce, tomato, silverskin onion, parmesan, brioche.
+Herb mayo, parmesan, tomato, crisp lettuce, silver onion.
