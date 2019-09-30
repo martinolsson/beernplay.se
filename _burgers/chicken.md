@@ -1,6 +1,6 @@
 ---
 title: Creamy chicken
-position: 4
+position: 2
 price: 159
 ---
 
