@@ -1,6 +1,6 @@
 ---
 title: Capricciosa
-position: 3
+position: 2
 price: 145
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Pesto Genovese
-position: 8
+position: 7
 price: 150
 info: vegetarian
 ---

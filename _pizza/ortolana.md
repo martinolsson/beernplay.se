@@ -1,6 +1,6 @@
 ---
 title: Ortolana
-position: 6
+position: 4
 price: 140
 info: vegan alternative available
 ---

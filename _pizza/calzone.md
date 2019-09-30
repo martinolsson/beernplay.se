@@ -1,6 +1,6 @@
 ---
 title: Calzone
-position: 7
+position: 6
 price: 135
 ---
 
