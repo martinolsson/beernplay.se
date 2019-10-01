@@ -29,6 +29,9 @@ collections:
     info: "All hot dogs are served with fries.\nSweet potato fries 15:- extra. "
     type: food
     position: 1
+  milk:
+    title: Milk
+    output: true
   milkshakes:
     title: Milkshakes
     output: true
