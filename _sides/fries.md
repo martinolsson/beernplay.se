@@ -1,6 +1,6 @@
 ---
-title: Fries
+title: Bar fries with dip
 position: 3
-price: 29
+price: 59
 ---
 
