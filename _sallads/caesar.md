@@ -1,7 +1,7 @@
 ---
-title: B&P Classic Caesarsallad
+title: Classic Caesarsallad
 position: 1
 price: 169
 ---
 
-Romaine lettuce, ceasar dressing, tomato, marinated chicken, crispy bacon, freshly grated parmesan, croutons.
+Roman lettuce, caesar dressing, marinated chicken thighs, bacon, cherry tomatoes, parmesan, croutons. 
