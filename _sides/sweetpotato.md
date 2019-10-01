@@ -1,6 +1,6 @@
 ---
 title: Sweet potato fries with dip
-position: 4
+position: 3
 price: 69
 ---
 
