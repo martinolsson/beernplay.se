@@ -1,5 +1,7 @@
 ---
 title: Primavera
+lang: en
+ref: primavera
 position: 5
 price: 145
 ---

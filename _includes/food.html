@@ -1,6 +1,6 @@
 <div class="food-menu">
 
-    {% assign menusections = site.collections | where:'type', 'food' | sort: 'position' %}
+    {% assign menusections = site.collections | where:'type', 'food' | where: 'lang', page.lang | sort: 'position' %}
 
     {% for section in menusections %}
         {% assign name = section.label %}

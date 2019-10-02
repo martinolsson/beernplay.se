@@ -1,5 +1,7 @@
 ---
 title: Creamy chicken
+lang: en
+ref: chicken
 position: 2
 price: 159
 ---

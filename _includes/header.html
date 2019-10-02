@@ -1,6 +1,33 @@
 <header>
+    <ul class="language">
+        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %}
+            {% assign active = nil %}
+            {% if post.lang == page.lang %}
+                {% assign active = 'active' %}
+            {% endif %}
+            <li>
+                <a href="{{ post.url }}" class="{{ post.lang }} {{active}}">{{ post.lang }}</a>
+            </li>
+        {% endfor %}
+
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for pge in pages %}
+            {% assign active = nil %}
+            {% if pge.lang == page.lang %}
+                {% assign active = 'active' %}
+            {% endif %}
+            <li>
+                <a href="{{ pge.url }}" class="{{ pge.lang }} {{active}}">{{ pge.lang }}</a>
+            </li>
+        {% endfor %}
+    </ul>
     <figure>
-        <a href="/"><img alt="Beer & Play" class="logo" src="/assets/images/bnp-on-white-medium.png"></a>
+        {% if page.lang=='sv' %}
+            <a href="{{'/index-sv.html'}}"><img alt="Beer & Play" class="logo" src="/assets/images/bnp-on-white-medium.png"></a>
+        {% else %}
+            <a href="{{'/index.html'}}"><img alt="Beer & Play" class="logo" src="/assets/images/bnp-on-white-medium.png"></a>
+        {% endif %}
     </figure>
     {% include menu.html %}
 </header>

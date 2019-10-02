@@ -1,5 +1,7 @@
 ---
 title: Calzone
+lang: en
+ref: calzone
 position: 6
 price: 135
 ---

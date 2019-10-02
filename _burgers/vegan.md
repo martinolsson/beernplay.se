@@ -1,5 +1,7 @@
 ---
 title: Vegan
+lang: en
+ref: vegan
 position: 5
 price: 169
 info: Beyond Burger

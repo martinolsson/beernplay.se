@@ -1,5 +1,7 @@
 ---
 title: Club Sandwich
+lang: en
+ref: clubsandwich
 date: 2019-10-01 01:26:00 +02:00
 price: 169
 ---

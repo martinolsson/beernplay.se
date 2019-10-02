@@ -1,5 +1,7 @@
 ---
 title: Capricciosa
+lang: en
+ref: capricciosa
 position: 2
 price: 145
 ---
