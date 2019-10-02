@@ -3,10 +3,18 @@
         -
         {{ page.title }}</title>
     <meta charset="utf-8"/>
-    <meta content="{{ site.description }}" name="description"/>
+    {% if page.lang == 'sv' %}
+        <meta content="{{ site.description-sv }}" name="description"/>
+    {% else %}
+        <meta content="{{ site.description }}" name="description"/>
+    {% endif %}
     <meta content="width=device-width, initial-scale=1" name="viewport"/>
     <meta content="{{ site.title }}" property="og:title">
-    <meta content="{{ site.description }}" property="og:description">
+    {% if page.lang == 'sv' %}
+        <meta content="{{ site.description-sv }}" property="og:description">
+    {% else %}
+        <meta content="{{ site.description }}" property="og:description">
+    {% endif %}
     <meta content="http://beernplay.se" property="og:url">
     <meta content="http://beernplay.se/assets/images/bnp-on-white-square.png" property="og:image">
     <meta content="website" property="og:type">
