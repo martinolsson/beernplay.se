@@ -5,7 +5,6 @@ position: 1
 lang: sv
 ref: beer
 Field name: 
-layout: home
 menu: true
 slider:
   slides:
@@ -13,9 +12,10 @@ slider:
   - image: "/uploads/iris-the-dog-lg_1x.jpg"
   - image: "/uploads/cans-lg_1x.jpg"
   - image: "/uploads/sina-lg_1x.jpg"
+layout: home
 ---
 
-# Vi lever och andas <span style = "white-space: nowrap"> hantverksöl </span>
+# Vi älskar <span style = "white-space: nowrap"> hantverksöl </span>
 
 ### Vi har 23 kranar och ett stort urval av flaskor. Behöver du hjälp med att välja? Prata med någon av vår personal: de kan våra öl utan och innan och är redo att hitta rätt öl för dig!
 
