@@ -1,8 +1,8 @@
 ---
 title: Pesto Genovese
+position: 7
 lang: sv
 ref: pesto
-position: 7
 price: 150
 info: vegetarian
 ---

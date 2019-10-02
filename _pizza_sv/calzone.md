@@ -1,8 +1,8 @@
 ---
 title: Calzone
+position: 6
 lang: sv
 ref: calzone
-position: 6
 price: 135
 ---
 

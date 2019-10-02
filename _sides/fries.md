@@ -1,7 +1,8 @@
 ---
 title: Bar fries with dip
+position: 2
 lang: en
 ref: fries
-position: 2
 price: 59
 ---
+

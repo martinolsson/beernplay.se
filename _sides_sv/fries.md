@@ -1,7 +1,8 @@
 ---
 title: Pommes med dip
+position: 2
 lang: sv
 ref: fries
-position: 2
 price: 59
 ---
+

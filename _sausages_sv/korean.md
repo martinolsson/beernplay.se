@@ -1,8 +1,8 @@
 ---
 title: Korean Black Garlic
+position: 1
 lang: sv
 ref: korean
-position: 1
 info: pork
 price: 139
 ---

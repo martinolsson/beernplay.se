@@ -1,7 +1,8 @@
 ---
 title: Dijonnaise
+position: 4
 lang: en
 ref: dijonnaise
-position: 4
 price: 15
 ---
+

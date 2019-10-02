@@ -1,7 +1,8 @@
 ---
 title: Sötpotatispommes med dip
+position: 3
 lang: sv
 ref: sweetpotato
-position: 3
 price: 69
 ---
+

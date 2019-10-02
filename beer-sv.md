@@ -1,18 +1,18 @@
 ---
 title: Öl
-lang: sv
-ref: beer
 date: 2019-05-31 13:41:00 +02:00
 position: 1
-Field name:
+lang: sv
+ref: beer
+Field name: 
 layout: home
 menu: true
 slider:
   slides:
-    - image: "/uploads/beer1-lg_1x.jpg"
-    - image: "/uploads/iris-the-dog-lg_1x.jpg"
-    - image: "/uploads/cans-lg_1x.jpg"
-    - image: "/uploads/sina-lg_1x.jpg"
+  - image: "/uploads/beer1-lg_1x.jpg"
+  - image: "/uploads/iris-the-dog-lg_1x.jpg"
+  - image: "/uploads/cans-lg_1x.jpg"
+  - image: "/uploads/sina-lg_1x.jpg"
 ---
 
 # Vi lever och andas <span style = "white-space: nowrap"> hantverksöl </span>

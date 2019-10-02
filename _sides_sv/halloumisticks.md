@@ -1,7 +1,8 @@
 ---
 title: Halloumi sticks
+position: 4
 lang: sv
 ref: halloumisticks
-position: 4
 price: 39
 ---
+

@@ -1,18 +1,18 @@
 ---
 title: Spel
-lang: sv
-ref: games
 date: 2019-05-31 13:41:00 +02:00
 position: 3
-Field name:
+lang: sv
+ref: games
+Field name: 
 layout: home
 menu: true
 slider:
   slides:
-    - image: "/uploads/bishi-bashi-lg_1x.jpg"
-    - image: "/uploads/shuffleboard-lg_1x.jpg"
-    - image: "/uploads/terminator-ball-lg_1x.jpg"
-    - image: "/uploads/crazy-light-lg_1x.jpg"
+  - image: "/uploads/bishi-bashi-lg_1x.jpg"
+  - image: "/uploads/shuffleboard-lg_1x.jpg"
+  - image: "/uploads/terminator-ball-lg_1x.jpg"
+  - image: "/uploads/crazy-light-lg_1x.jpg"
 ---
 
 # Sport, barspel, brädspel

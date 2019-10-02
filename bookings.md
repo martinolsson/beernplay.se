@@ -1,17 +1,17 @@
 ---
 title: Bookings
-lang: en
-ref: bookings
 date: 2019-05-31 13:41:00 +02:00
 position: 4
-Field name:
+lang: en
+ref: bookings
+Field name: 
 menu: true
 slider:
   slides:
-    - image: "/uploads/caesar-lg_1x.jpg"
-    - image: "/uploads/korean-lg_1x.jpg"
-    - image: "/uploads/outdoors2-lg_1x.jpg"
-    - image: "/uploads/makingpizza1-lg_1x.jpg"
+  - image: "/uploads/caesar-lg_1x.jpg"
+  - image: "/uploads/korean-lg_1x.jpg"
+  - image: "/uploads/outdoors2-lg_1x.jpg"
+  - image: "/uploads/makingpizza1-lg_1x.jpg"
 layout: home
 ---
 

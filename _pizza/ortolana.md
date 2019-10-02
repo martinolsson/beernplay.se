@@ -1,8 +1,8 @@
 ---
 title: Ortolana
+position: 4
 lang: en
 ref: ortolana
-position: 4
 price: 140
 info: vegan alt. available
 ---

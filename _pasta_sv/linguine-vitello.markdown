@@ -1,8 +1,8 @@
 ---
 title: Linguine Vitello
+date: 2019-10-01 01:40:00 +02:00
 lang: sv
 ref: linguine
-date: 2019-10-01 01:40:00 +02:00
 price: 155
 ---
 

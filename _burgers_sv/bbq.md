@@ -1,8 +1,8 @@
 ---
 title: BBQ Burger
+position: 1
 lang: sv
 ref: bbq-burger
-position: 1
 info: 180g högrev, bringa
 price: 169
 ---

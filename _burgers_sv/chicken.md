@@ -1,8 +1,8 @@
 ---
 title: Creamy chicken
+position: 2
 lang: sv
 ref: chicken
-position: 2
 price: 159
 ---
 

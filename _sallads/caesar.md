@@ -1,8 +1,8 @@
 ---
 title: Classic
+position: 0
 lang: en
 ref: caesar
-position: 0
 price: 169
 ---
 

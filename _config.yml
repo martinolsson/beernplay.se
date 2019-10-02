@@ -4,136 +4,138 @@ timezone: Europe/Stockholm
 collections:
   sides:
     title: Bar Menu
-    lang: en
     output: false
+    lang: en
     type: food
     position: 7
   sides_sv:
     title: Barmeny
-    lang: sv
     output: false
+    lang: sv
     type: food
     position: 7
   burgers:
     title: Burgers
+    output: false
     lang: en
-    output: false
     info: Fries included with all burgers.<br> Sweet potato fries 15:- extra
-    type: food
-    position: 3
-  burgers_sv:
-    title: Hamburgare
-    lang: sv
-    output: false
-    info: Pommes frites ingår med alla burgare.<br>Sötpotatispommes 15:- extra
     type: food
     position: 3
   desserts:
     title: Desserts
+    output: false
     lang: en
-    output: false
-    type: food
-    position: 9
-  desserts_sv:
-    title: Efterrätter
-    lang: sv
-    output: false
     type: food
     position: 9
   dips:
     title: Dips
-    lang: en
     output: false
+    lang: en
     type: food
     position: 8
   dips_sv:
     title: Dips
-    lang: sv
     output: false
+    lang: sv
     type: food
     position: 8
+  desserts_sv:
+    title: Efterrätter
+    output: false
+    lang: sv
+    type: food
+    position: 9
+  burgers_sv:
+    title: Hamburgare
+    output: false
+    lang: sv
+    info: Pommes frites ingår med alla burgare.<br>Sötpotatispommes 15:- extra
+    type: food
+    position: 3
   sausages:
     title: Korv
-    lang: en
     output: false
+    lang: en
     info: "All hot dogs are served with fries.\nSweet potato fries 15:- extra. "
     type: food
     position: 2
   sausages_sv:
     title: Korv
-    lang: sv
     output: false
-    info: "Pommes frites ingår med alla korvar.\nSötpotatispommes 15:- extra"
+    lang: sv
+    info: |-
+      Pommes frites ingår med alla korvar.
+      Sötpotatispommes 15:- extra
     type: food
     position: 2
-  milkshakes:
-    title: Milkshakes
-    lang: en
-    output: false
-    type: food
-    position: 10
   milkshakes_sv:
     title: Lyxshakes
-    lang: sv
     output: false
+    lang: sv
+    type: food
+    position: 10
+  milkshakes:
+    title: Milkshakes
+    output: false
+    lang: en
     type: food
     position: 10
   pasta:
     title: Pasta
-    lang: en
     output: false
+    lang: en
     type: food
     position: 4
   pasta_sv:
     title: Pasta
-    lang: sv
     output: false
+    lang: sv
     type: food
     position: 4
   pizza:
     title: Pizza Napoletana
-    lang: en
     output: false
+    lang: en
     type: food
     position: 1
   pizza_sv:
     title: Pizza Napoletana
-    lang: sv
     output: false
+    lang: sv
     type: food
     position: 1
   posts:
     title: Posts
     output: true
-  sallads:
-    title: Sallads
-    lang: en
-    output: false
-    type: food
-    position: 5
   sallads_sv:
     title: Sallader
-    lang: sv
     output: false
+    lang: sv
+    type: food
+    position: 5
+  sallads:
+    title: Sallads
+    output: false
+    lang: en
     type: food
     position: 5
   specials:
     title: Specials
-    lang: en
     output: false
+    lang: en
     type: food
     position: 6
   specials_sv:
     title: Specials
-    lang: sv
     output: false
+    lang: sv
     type: food
     position: 6
   uploads:
     title: Uploads
     output: true
 description: Craft beer, fun and food. New bar on Hornsgatan 138, Stockholm.
-phone: "08-42050569"
+phone: '08-42050569'
 email: bar@beernplay.se
 address: Hornsgatan 138 Stockholm
 maps: https://goo.gl/maps/Lzw12C63Pt6gnJ6E7
