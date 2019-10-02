@@ -27,16 +27,16 @@ collections:
     lang: en
     type: food
     position: 9
+  dips_sv:
+    title: Dipp
+    output: false
+    lang: sv
+    type: food
+    position: 8
   dips:
     title: Dips
     output: false
     lang: en
-    type: food
-    position: 8
-  dips_sv:
-    title: Dips
-    output: false
-    lang: sv
     type: food
     position: 8
   desserts_sv:
