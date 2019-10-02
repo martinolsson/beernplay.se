@@ -53,7 +53,7 @@ collections:
     type: food
     position: 3
   sausages:
-    title: Korv
+    title: Hotdogs
     output: false
     lang: en
     info: "All hot dogs are served with fries.\nSweet potato fries 15:- extra. "
