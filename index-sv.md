@@ -24,7 +24,7 @@ layout: home
 
 Hos Beer n' Play hittar du noggrant utvald hantverksöl från våra 23 kranar, och ett brett utbud av burkar och flaskor (inklusive alkoholfria alternativ). Vi visar alltid den bästa sporten på våra TV-apparater och vi har många bar-- och brädspel.
 
-Vår meny ger dig street food med kvalitetsingredienser: traditionell Pizza Napolitana gjord med vår fantastiska surdeg, saftiga hamburgare och handgjorda korvar.
+Vårt kök bjuder på street food med kvalitetsingredienser: traditionell Pizza Napolitana gjord med vår fantastiska surdeg, saftiga hamburgare och handgjorda korvar.
 
 Varför är du inte redan här?
 
