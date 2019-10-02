@@ -1,6 +1,6 @@
 ---
-layout:
-permalink: /sitemaps.xml
+permalink: "/sitemaps.xml"
+layout: 
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
