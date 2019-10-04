@@ -4,7 +4,7 @@ position: 0
 lang: sv
 ref: home
 landing-title: Välkommen till Beer n' Play
-description: 
+description: Test
 image: bnp-on-white.png
 author: 
 slider:
