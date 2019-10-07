@@ -1,5 +1,5 @@
 ---
-title: Beer n' Play
+title: Craft Beer & Sports Bar on Södermalm
 position: 0
 lang: en
 ref: home
