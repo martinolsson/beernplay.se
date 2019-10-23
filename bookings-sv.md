@@ -4,14 +4,14 @@ date: 2019-05-31 13:41:00 +02:00
 position: 4
 lang: sv
 ref: bookings
-Field name: 
+Field name:
 menu: true
 slider:
   slides:
-  - image: "/uploads/caesar-lg_1x.jpg"
-  - image: "/uploads/korean-lg_1x.jpg"
-  - image: "/uploads/outdoors2-lg_1x.jpg"
-  - image: "/uploads/makingpizza1-lg_1x.jpg"
+    - image: "/uploads/caesar-lg_1x.jpg"
+    - image: "/uploads/korean-lg_1x.jpg"
+    - image: "/uploads/outdoors2-lg_1x.jpg"
+    - image: "/uploads/makingpizza1-lg_1x.jpg"
 layout: home
 ---
 
@@ -34,4 +34,12 @@ Vi arbetar med Wolt - klicka på logotypen för att beställa hemleverans eller 
 
 <div class="center">
 <a target="_blank" href="https://wolt.com/en/swe/stockholm/restaurant/beer-n-play"><img src="../assets/images/wolt-logo.png" alt="Wolt Logo" style="width: 146px "></a>
+</div>
+
+## The Fork
+
+Du kan använda formuläret nedan för att boka bord via The Fork!
+
+<div class="center" style="background: white">
+<iframe id="thefork" src="https://module.lafourchette.com/sv_SE/module/554537-f9b2f" style="width: 100%; min-height:800px; border:none; scrolling:yes;"></iframe>
 </div>
