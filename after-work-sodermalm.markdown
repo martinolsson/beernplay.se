@@ -1,8 +1,6 @@
 ---
 title: After Work Södermalm
 date: 2019-10-24 14:00:00 +02:00
-lang: 
-Field name: 
 menu: false
 slider:
   slides:
@@ -10,6 +8,7 @@ slider:
   - image: "/uploads/pinball-lg_1x.jpg"
   - image: "/uploads/indoors-lg_1x.jpg"
   - image: "/uploads/people2-lg_1x.jpg"
+ref: testarnu
 layout: home
 ---
 
