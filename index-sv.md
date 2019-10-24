@@ -1,6 +1,6 @@
 ---
 title: Craft Beer & Sportbar på Södermalm
-position: 0
+position: 2
 lang: sv
 ref: home
 landing-title: Välkommen till Beer n' Play

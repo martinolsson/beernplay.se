@@ -1,6 +1,7 @@
 ---
 title: After Work Södermalm
 date: 2019-10-24 14:00:00 +02:00
+position: 11
 lang: sv
 menu: false
 slider:

@@ -1,5 +1,6 @@
 ---
 permalink: "/sitemaps.xml"
+position: 0
 layout: 
 ---
 
