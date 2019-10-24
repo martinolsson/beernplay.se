@@ -10,6 +10,7 @@ slider:
   - image: "/uploads/pinball-lg_1x.jpg"
   - image: "/uploads/indoors-lg_1x.jpg"
   - image: "/uploads/people2-lg_1x.jpg"
+menu: true
 layout: home
 ---
 
