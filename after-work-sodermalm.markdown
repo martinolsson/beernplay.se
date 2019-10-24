@@ -2,7 +2,7 @@
 title: After Work Södermalm
 date: 2019-10-24 14:00:00 +02:00
 lang: sv
-landing-title: 
+landing-title: After Work Södermalm
 image: bnp-on-white.png
 slider:
   slides:
@@ -11,6 +11,7 @@ slider:
   - image: "/uploads/indoors-lg_1x.jpg"
   - image: "/uploads/people2-lg_1x.jpg"
 menu: true
+ref: home
 layout: home
 ---
 
