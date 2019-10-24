@@ -1,7 +1,6 @@
 ---
 title: After Work Södermalm
 date: 2019-10-24 14:00:00 +02:00
-published: false
 lang: sv
 landing-title: 
 image: bnp-on-white.png
