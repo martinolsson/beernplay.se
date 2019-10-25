@@ -1,6 +1,7 @@
 ---
 title: Craft Beer Stockholm
 date: 2019-10-25 09:21:00 +02:00
+position: 12
 lang: sv
 menu: false
 slider:

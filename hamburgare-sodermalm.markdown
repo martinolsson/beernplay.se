@@ -1,7 +1,7 @@
 ---
 title: Hamburgare Södermalm
 date: 2019-10-25 09:16:00 +02:00
-position: 13
+position: 14
 lang: sv
 menu: false
 slider:

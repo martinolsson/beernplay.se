@@ -1,7 +1,7 @@
 ---
 title: Shuffleboard Södermalm
 date: 2019-10-25 09:19:00 +02:00
-position: 14
+position: 15
 lang: sv
 menu: false
 slider:
