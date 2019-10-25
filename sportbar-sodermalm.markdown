@@ -1,6 +1,7 @@
 ---
 title: Sportbar Södermalm
 date: 2019-10-25 08:59:00 +02:00
+position: 12
 lang: sv
 menu: false
 slider:
