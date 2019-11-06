@@ -22,7 +22,7 @@ layout: home
 
 ## Som vårt namn antyder älskar vi craft beer och kul spel.
 
-Hos Beer n' Play hittar du noggrant utvald craft beer från våra 23 kranar, och ett brett utbud av burkar och flaskor (inklusive alkoholfria alternativ). Vi visar alltid den bästa sporten på våra TV-apparater och vi har många bar-- och brädspel.
+Hos Beer n' Play hittar du noggrant utvald <a href="http://beernplay.se/craft-beer-stockholm.html">craft beer</a> från våra 23 kranar, och ett brett utbud av burkar och flaskor (inklusive alkoholfria alternativ). Vi visar alltid den bästa sporten på våra TV-apparater och vi har många bar-- och brädspel.
 
 Vårt kök bjuder på street food med kvalitetsingredienser: traditionell Pizza Napolitana gjord med vår fantastiska surdeg, saftiga hamburgare och handgjorda korvar.
 
