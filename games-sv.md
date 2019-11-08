@@ -33,7 +33,7 @@ De flesta av våra spel använder poletter som du köper i en automat.
 
 ### Shuffleboard
 
-Vi har fyra shuffleboards - du hämtar kittet i baren. Fredag och lördag är priset per timme 75:- per person eller 250:- för 4 spelare. Andra dagar 50:- per person eller 150:- för 4 spelare.
+Vi har fyra <a href="http://beernplay.se/shuffleboard-sodermalm.html">shuffleboards</a> - du hämtar kittet i baren. Fredag och lördag är priset per timme 75:- per person eller 250:- för 4 spelare. Andra dagar 50:- per person eller 150:- för 4 spelare.
 
 ### Biljard
 
