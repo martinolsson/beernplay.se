@@ -6,10 +6,17 @@ lang: sv
 menu: false
 slider:
   slides:
-    image: "/uploads/people2-lg_1x.jpg"
+  - image: "/uploads/beer1-lg_1x.jpg"
+  - image: "/uploads/pinball-lg_1x.jpg"
+  - image: "/uploads/indoors-lg_1x.jpg"
+  - image: "/uploads/people2-lg_1x.jpg"
 ref: hamburgaresoder
 layout: home
 ---
+
+# Hamburgare Södermalm
+
+{% include hours-sv.html %}
 
 Det har blivit trendigt med hamburgare i Sverige. Hamburgaren brukar förknippas med USA men dess ursprung är lite oklar. Men man vet att det var vanligt i Baltikum att skrapa av det sista köttet från oxben och göra platta biffar av det som sedan stektes. Sedan spred det sig via Tyskland till USA med migranter och sjömän. I USA serverades på 1800-talet nötfärsbiffar på en brödskiva och den moderna hamburgaren var född.
 Idag har alla restauranger med beaktning sitt eget sätt att laga denna klassiska och älskade maträtt. Vi på Beer n' Play vill inte vara sämre.
