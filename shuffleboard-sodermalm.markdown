@@ -33,4 +33,6 @@ När man aktiverar sig blir man hungrig. Då passar det bra att vi har en rejäl
 
 ## Välkommen till oss på Södermalm när du vill spela shuffleboard
 
+Fredag och lördag är priset per timme 75:- per person eller 250:- för 4 spelare. Andra dagar 50:- per person eller 150:- för 4 spelare.
+
 Vår vision är att kombinera en liten nöjespark med en klassisk pub. Tanken är att gästerna ska kunna spela olika sorters spel som shuffleboard och flipper, titta på direktsänd sport på storbildsskärm, äta en god middag och kunna välja på ett stort urval av kvalitetsöl på samma ställe. Vi tycker att vi har lyckats! Välkommen till oss och avgör själv.
