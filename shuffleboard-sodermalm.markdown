@@ -6,10 +6,17 @@ lang: sv
 menu: false
 slider:
   slides:
-    image: "/uploads/people2-lg_1x.jpg"
+  - image: "/uploads/beer1-lg_1x.jpg"
+  - image: "/uploads/pinball-lg_1x.jpg"
+  - image: "/uploads/indoors-lg_1x.jpg"
+  - image: "/uploads/people2-lg_1x.jpg"
 ref: shuffle
 layout: home
 ---
+
+# Shuffleboard Södermalm
+
+{% include hours-sv.html %}
 
 På Hornsgatan 138 ligger den nyöppnade restaurangen Beer n' Play. Det är något så ovanligt som en sportbar och restaurang där du även kan spela shuffleboard, biljard, arkadspel, flipper, brädspel och andra spel. Tänk dig ett lekland för vuxna i pubmiljö. Det låter som en dröm men det är faktiskt sant. Och det är inte vilken pub som helst. I baren hittar ett stort antal exklusiva ölsorter av högsta kvalitet från hela världen. Det innebär olika sorters pale ale, APA, IPA, red & brown ale, lager, porter och stout av hög kvalitet. Bland de mer ovanliga ölen kan vi nämna öl med smak av blåbär och lavendel, lönnsirap och pekan och en utsökt ale som är lagrad med Rieslingdruvor.
 När du blir hungrig har vi en läcker meny bestående av street food av högsta kvalitet. Vi serverar pasta, sallad, hamburgare och pizza.
