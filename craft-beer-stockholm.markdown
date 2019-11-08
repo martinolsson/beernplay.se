@@ -6,7 +6,10 @@ lang: sv
 menu: false
 slider:
   slides:
-    image: "/uploads/people2-lg_1x.jpg"
+  - image: "/uploads/beer1-lg_1x.jpg"
+  - image: "/uploads/pinball-lg_1x.jpg"
+  - image: "/uploads/indoors-lg_1x.jpg"
+  - image: "/uploads/people2-lg_1x.jpg"
 ref: cbstockholm
 layout: home
 ---
