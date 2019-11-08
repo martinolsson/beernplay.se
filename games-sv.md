@@ -5,7 +5,6 @@ position: 8
 lang: sv
 ref: games
 Field name: 
-layout: home
 menu: true
 slider:
   slides:
@@ -13,11 +12,12 @@ slider:
   - image: "/uploads/shuffleboard-lg_1x.jpg"
   - image: "/uploads/terminator-ball-lg_1x.jpg"
   - image: "/uploads/crazy-light-lg_1x.jpg"
+layout: home
 ---
 
 # Sport, barspel, brädspel
 
-### Vi visar de bästa matcherna på våra 8 enorma TV-apparater. Vi har också biljardbord, shuffleboard, pinballmaskiner, arkadspel och brädspel.
+### Vi visar de bästa matcherna på våra 8 enorma TV-apparater. Vi har också biljardbord, shuffleboard, pinballmaskiner, arkadspel och brädspel. Perfekt för en <a href="http://beernplay.se/after-work-sodermalm.html>"After Work</a>!
 
 Har du några spel du vill se här? Berätta så kanske dina önskemål kan gå i uppfyllelse! Vad väntar du på? Time to Beer n 'Play!
 
