@@ -20,7 +20,7 @@ layout: home
 
 Vi bakar vår pizza i en äkta italiensk ugn som kan hålla jämna 450 grader under de 90-110 sekunder det tar för pizzan att bli perfekt gräddad. Pizza Napolitana är känd för sin tjocka krispiga kant, och vår är gjord av surdeg med Tipo-00-mjöl. Såsen är gjord med de berömda San Marzano-tomaterna, och vår mozzarella är DOP Fior D'Agerola.
 
-Om du vill ha den perfekta hamburgaren har du hittat rätt. Våra saftiga hamburgare är gjorda på 70% högrev och 30% bringa, perfekt tillagade och fulla av smaker. Vi tycker inte att hamburgarupplevelsen är fullständig om du inte kan ta tag i burgaren med händerna och hugga in!
+Om du vill ha den perfekta hamburgaren har du hittat rätt. Våra saftiga <a href="http://beernplay.se/hamburgare-sodermalm.html">hamburgare</a> är gjorda på 70% högrev och 30% bringa, perfekt tillagade och fulla av smaker. Vi tycker inte att hamburgarupplevelsen är fullständig om du inte kan ta tag i burgaren med händerna och hugga in!
 
 Våra korvar är handgjorda och handplockade av vår chefskock. Du hittar alltid klassiker och några icke-traditionella överraskande smaker.
 
