@@ -8,4 +8,4 @@ info: 180g högrev, bringa
 price: 169
 ---
 
-chipotlemajonnäs, picklad rödlök, cheddar, saltgurka.
+Chipotlemajonnäs, picklad rödlök, cheddar, saltgurka.

@@ -8,4 +8,4 @@ price: 169
 info: 180g ribs, brisket
 ---
 
-chipotle mayo, pickled red onion, cheddar, pickled cucumber.
+Chipotle mayo, pickled red onion, cheddar, pickled cucumber.
