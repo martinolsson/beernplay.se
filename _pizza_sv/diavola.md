@@ -1,5 +1,5 @@
 ---
-title: diavola
+title: Diavola
 position: 3
 lang: sv
 price: 140
