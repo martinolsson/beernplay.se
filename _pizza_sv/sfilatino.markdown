@@ -5,6 +5,7 @@ position: 8
 lang: sv
 ref: sfilatino
 price: 155
+info: inbakad
 ---
 
 San Marzano tomater, Fior di Latte, prosciutto cotto, champinjoner, stark salami, ruccola, parmesan, basilika.
