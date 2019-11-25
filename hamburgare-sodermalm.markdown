@@ -28,9 +28,11 @@ Med mycket kärlek och passion har våra kockar skapat den, i alla fall enligt o
 ## Klassisk street food
 
 Förutom hamburgare hittar du även äkta napolitansk pizza, egengjord korv av högsta kvalitet och klassiska rätter som pasta, sallader och såklart vår härliga club sandwich. Allt tillagas med stor omsorg på råvaror av högsta kvalitet av våra skickliga kockar.
+
 Våra pizza bakas i en äkta italiensk pizzaugn som håller 450 grader, vilket gör att den blir klar på under 2 minuter. Ingen onödig väntan alltså. Vi bakar pizzadegen med Tipo-00-mjöl vilket ger en härligt krispig kant. Tomatsåsen görs av San Marzano-tomater och vår utsökta mozzarella är DOP Fior D’Agerola.
 
 ## Hamburgare och öl hör ihop
 
 Vad passar bäst att dricka till en hamburgare? Det är lätt att svara på: ÖL! Därför har vi ett enormt utbud av öl från hela världen. Och inte vilket öl som helst – hantverksöl. Hos oss kan du få tag i kvalitetsöl från mikrobryggerier världen över. Bara på kran har vi 23 ölsorter och därtill en stort utbud av flasköl. Alla öl håller hög kvalitet och är noga utvalda för att passa alla smaker. I baren hittar du olika sorters pale ale, IPA, APA, Red & brown ale, porter, stout och lager av högsta klass. Det finns stor chans att du hittar en öl som du aldrig har provat förut.
+
 Välkommen att smaka våra hamburgare på våra härliga sportsbar på Södermalm.
