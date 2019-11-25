@@ -73,12 +73,6 @@ collections:
     lang: en
     type: food
     position: 10
-  pasta_sv:
-    title: Pasta
-    output: false
-    lang: sv
-    type: food
-    position: 4
   pasta:
     title: Pasta
     output: false
