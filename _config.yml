@@ -73,12 +73,6 @@ collections:
     lang: en
     type: food
     position: 10
-  pasta:
-    title: Pasta
-    output: false
-    lang: en
-    type: food
-    position: 4
   pizza:
     title: Pizza Napoletana
     output: false
