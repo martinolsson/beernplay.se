@@ -106,12 +106,6 @@ collections:
     lang: en
     type: food
     position: 5
-  specials:
-    title: Specials
-    output: false
-    lang: en
-    type: food
-    position: 6
   specials_sv:
     title: Specials
     output: false
