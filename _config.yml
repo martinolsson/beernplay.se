@@ -52,13 +52,6 @@ collections:
     info: Pommes frites ingår med alla burgare.<br>Sötpotatispommes 15:- extra
     type: food
     position: 3
-  sausages:
-    title: Hotdogs
-    output: false
-    lang: en
-    info: "All hot dogs are served with fries.\nSweet potato fries 15:- extra. "
-    type: food
-    position: 2
   sausages_sv:
     title: Korv
     output: false
