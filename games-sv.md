@@ -17,7 +17,7 @@ layout: home
 
 # Sport, barspel, brädspel
 
-### Vi visar de bästa matcherna på våra 8 enorma TV-apparater. Vi har också biljardbord, shuffleboard, pinballmaskiner, arkadspel och brädspel. Perfekt för en <a href="http://beernplay.se/after-work-sodermalm.html>"After Work</a>!
+### Vi visar de bästa matcherna på våra 8 enorma TV-apparater. Vi har också biljardbord, shuffleboard, pinballmaskiner, arkadspel och brädspel. Perfekt för en <a href="http://beernplay.se/after-work-sodermalm.html">After Work</a>!
 
 Har du några spel du vill se här? Berätta så kanske dina önskemål kan gå i uppfyllelse! Vad väntar du på? Time to Beer n 'Play!
 
@@ -63,27 +63,47 @@ Mät din superstyrka med vårt boxningsspel eller skjut några trepoängare med 
 
 Vi har massor av moderna och klassiska brädspel. Här är en lista:
 
-- Alfapet (SW)
-- Backgammon (EN)
-- Beer crafters (EN)
-- Big Bang Theory (EN)
-- Black Stories (SW)
-- Cards Against Humanity (EN)
-- Card Deck
-- Chess Set
-- Dixit (SW)
-- Exploding Kittens (EN)
-- Fix the World (EN)
-- Hive (EN)
-- I Should Have Known That (EN)
-- Lost Cities (EN)
-- Munchkin Zombies (EN)
-- Pick Your Poison (EN)
-- Settlers of Catan (SW)
-- Shit Happens (EN)
-- Trivial Pursuit (EN)
-- Tsuro (EN)
-- Unlock (EN)
+* Alfapet (SW)
+
+* Backgammon (EN)
+
+* Beer crafters (EN)
+
+* Big Bang Theory (EN)
+
+* Black Stories (SW)
+
+* Cards Against Humanity (EN)
+
+* Card Deck
+
+* Chess Set
+
+* Dixit (SW)
+
+* Exploding Kittens (EN)
+
+* Fix the World (EN)
+
+* Hive (EN)
+
+* I Should Have Known That (EN)
+
+* Lost Cities (EN)
+
+* Munchkin Zombies (EN)
+
+* Pick Your Poison (EN)
+
+* Settlers of Catan (SW)
+
+* Shit Happens (EN)
+
+* Trivial Pursuit (EN)
+
+* Tsuro (EN)
+
+* Unlock (EN)
 
 Bra utbud, eller hur?
 
