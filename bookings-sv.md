@@ -21,10 +21,15 @@ layout: home
 
 ## Vårt telefonnummer är <a href="tel:{{site.phone}}">{{site.phone}}</a> och vår epost är <a href="mailto:{{site.email}}">{{site.email}}</a>. Här är <a href="food-sv.html">vår meny.</a>
 
-- Du kan bara boka om du vill äta. Vi har alltid plats för öldrickare!
-- Om ni är en stor grupp (8 personer eller fler) måste ni förbeställa er mat.
-- Vänligen boka 24 timmar i förväg. Om ni är en stor grupp, ge oss 48 timmar.
-- Beställ mat och dryck i baren.
+* Du kan bara boka om du vill äta. Vi har alltid plats för öldrickare!
+
+* Om ni är en stor grupp (15 personer eller fler) måste ni förbeställa er mat.
+
+* Vänligen boka 24 timmar i förväg. Om ni är en stor grupp, ge oss 48 timmar.
+
+* Shuffleboards kan inte bokas. 
+
+* Beställ mat och dryck i baren.
 
 ## Leverans och avhämtning!
 
