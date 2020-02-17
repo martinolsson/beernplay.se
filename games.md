@@ -5,7 +5,6 @@ position: 7
 lang: en
 ref: games
 Field name: 
-layout: home
 menu: true
 slider:
   slides:
@@ -13,11 +12,12 @@ slider:
   - image: "/uploads/shuffleboard-lg_1x.jpg"
   - image: "/uploads/terminator-ball-lg_1x.jpg"
   - image: "/uploads/crazy-light-lg_1x.jpg"
+layout: home
 ---
 
 # Watch it or play it
 
-### We show the best matches on our 8 huge TVs. We also have pool tables, shuffle board, pinball machines, arcade games and board games.
+### We show the best matches on our 8 huge TVs. We also have pool tables, shuffleboard, pinball machines, arcade games and board games.
 
 Any games you’d like to see in here? Let us know and maybe your wishes can come true! What ya waiting for? Time to Beer n’ Play!
 
@@ -63,27 +63,47 @@ Measure your super-strength with our boxing game or shoot some hoops with our ba
 
 We have a large selection of modern and classic board games. Here's a list:
 
-- Alfapet (SW)
-- Backgammon (EN)
-- Beer crafters (EN)
-- Big Bang Theory (EN)
-- Black Stories (SW)
-- Cards Against Humanity (EN)
-- Card Deck
-- Chess Set
-- Dixit (SW)
-- Exploding Kittens (EN)
-- Fix the World (EN)
-- Hive (EN)
-- I Should Have Known That (EN)
-- Lost Cities (EN)
-- Munchkin Zombies (EN)
-- Pick Your Poison (EN)
-- Settlers of Catan (SW)
-- Shit Happens (EN)
-- Trivial Pursuit (EN)
-- Tsuro (EN)
-- Unlock (EN)
+* Alfapet (SW)
+
+* Backgammon (EN)
+
+* Beer crafters (EN)
+
+* Big Bang Theory (EN)
+
+* Black Stories (SW)
+
+* Cards Against Humanity (EN)
+
+* Card Deck
+
+* Chess Set
+
+* Dixit (SW)
+
+* Exploding Kittens (EN)
+
+* Fix the World (EN)
+
+* Hive (EN)
+
+* I Should Have Known That (EN)
+
+* Lost Cities (EN)
+
+* Munchkin Zombies (EN)
+
+* Pick Your Poison (EN)
+
+* Settlers of Catan (SW)
+
+* Shit Happens (EN)
+
+* Trivial Pursuit (EN)
+
+* Tsuro (EN)
+
+* Unlock (EN)
 
 Great selection, right?!
 
