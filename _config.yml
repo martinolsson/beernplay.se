@@ -52,15 +52,6 @@ collections:
     info: Pommes frites ingår med alla burgare.<br>Sötpotatispommes 15:- extra
     type: food
     position: 3
-  sausages_sv:
-    title: Korv
-    output: false
-    lang: sv
-    info: |-
-      Pommes frites ingår med alla korvar.
-      Sötpotatispommes 15:- extra
-    type: food
-    position: 2
   milkshakes_sv:
     title: Lyxshakes
     output: false
