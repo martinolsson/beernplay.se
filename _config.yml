@@ -91,12 +91,6 @@ collections:
     lang: en
     type: food
     position: 5
-  specials_sv:
-    title: Specials
-    output: false
-    lang: sv
-    type: food
-    position: 6
   uploads:
     title: Uploads
     output: true
