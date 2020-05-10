@@ -44,6 +44,19 @@ body {
   margin: 0 auto;
 }
 
+#tv {
+  font-size: $base-font-size * 1.5;
+  .logo {
+    margin: 0 auto;
+    display: block;
+  }
+  #wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
 #main {
   flex-grow: 1;
   padding: 0 2 * $base-space 2 * $base-space 2 * $base-space;
