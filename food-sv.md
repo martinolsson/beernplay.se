@@ -22,6 +22,5 @@ Vi bakar vår pizza i en äkta italiensk ugn som kan hålla jämna 450 grader un
 
 Om du vill ha den perfekta hamburgaren har du hittat rätt. Våra saftiga <a href="http://beernplay.se/hamburgare-sodermalm.html">hamburgare</a> är gjorda på 70% högrev och 30% bringa, perfekt tillagade och fulla av smaker. Vi tycker inte att hamburgarupplevelsen är fullständig om du inte kan ta tag i burgaren med händerna och hugga in!
 
-Våra korvar är handgjorda och handplockade av vår chefskock. Du hittar alltid klassiker och några icke-traditionella överraskande smaker.
 
 {% include food.html lang="sv" %}
