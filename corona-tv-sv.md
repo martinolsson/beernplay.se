@@ -1,10 +1,10 @@
 ---
-title: Corona Information
+title: Coronainformation
 date: 2020-05-10 18:40:00 +02:00
 lang: sv
 ref: corona
-layout: tv
 menu: false
+layout: tv
 ---
 
 <img src="assets/images/bnp-on-white-medium.png" class="logo">
