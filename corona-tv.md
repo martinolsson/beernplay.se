@@ -1,6 +1,7 @@
 ---
 title: Corona Information
 date: 2020-05-10 18:40:00 +02:00
+position: 16
 lang: en
 ref: corona
 layout: tv

@@ -1,6 +1,7 @@
 ---
 title: Coronainformation
 date: 2020-05-10 18:40:00 +02:00
+position: 17
 lang: sv
 ref: corona
 menu: false
