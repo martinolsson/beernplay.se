@@ -4,7 +4,7 @@ position: 7
 lang: sv
 ref: pesto
 price: 150
-info: vegetarian
+info: vegetarisk
 ---
 
 Körsbärstomater, pesto genovese, provola, parmesan, basilika.

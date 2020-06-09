@@ -1,7 +1,6 @@
 ---
 title: Tonno Cipolla
-date: 2019-10-01 01:37:00 +02:00
-position: 0
+position: 9
 lang: en
 ref: tonno
 price: 150

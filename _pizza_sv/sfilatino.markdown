@@ -8,4 +8,4 @@ price: 155
 info: inbakad
 ---
 
-San Marzano tomater, Fior di Latte, prosciutto cotto, champinjoner, stark salami, ruccola, parmesan, basilika.
+San Marzano-tomater, Fior di Latte, prosciutto cotto, champinjoner, ventricinasalami, ruccola, parmesan, basilika.

@@ -1,5 +1,5 @@
 ---
-title: Classic
+title: The BnP Caesar Sallad
 position: 0
 lang: en
 ref: caesar

@@ -2,23 +2,23 @@
 title: Beer n' Play
 timezone: Europe/Stockholm
 collections:
-  sides:
+  barmenu:
     title: Bar Menu
     output: false
     lang: en
     type: food
-    position: 7
-  sides_sv:
+    position: 11
+  barmenu_sv:
     title: Barmeny
     output: false
     lang: sv
     type: food
-    position: 7
+    position: 11
   burgers:
     title: Burgers
     output: false
     lang: en
-    info: Fries included with all burgers.<br> Sweet potato fries 15:- extra
+    info: All burgers include lettuce, tomato, side of pickled cucumber and side of fries.<br> Sweet potato fries 15:- extra
     type: food
     position: 3
   desserts:
@@ -49,7 +49,7 @@ collections:
     title: Hamburgare
     output: false
     lang: sv
-    info: Pommes frites ingår med alla burgare.<br>Sötpotatispommes 15:- extra
+    info: I alla burgare ingår sallad, tomat, inlagd gurka (på sidan) och pommes. 
     type: food
     position: 3
   milkshakes_sv:
@@ -91,10 +91,24 @@ collections:
     lang: en
     type: food
     position: 5
+  sides:
+    title: Sides
+    output: false
+    lang: en
+    type: food
+    position: 7
+    info: EXTRA! EXTRA! EAT ALL ABOUT IT! Order as a little treat or make a Side Party!
+  sides_sv:
+    title: Sides
+    output: false
+    lang: sv
+    type: food
+    position: 7
+    info: EXTRA! EXTRA! EAT ALL ABOUT IT! Beställ en liten mumsbit eller kör ett Side Party!
   uploads:
     title: Uploads
     output: true
-description: Craft beer, fun and food. New bar on Hornsgatan 138, Stockholm.
+description: Craft beer, fun and food. New beer and sports bar on Hornsgatan 138, Stockholm.
 description-sv: Hantverksöl, sport, spel och god mat. Ny öl- och sportbar på  Hornsgatan
   138, Stockholm.
 phone: '08-42050569'

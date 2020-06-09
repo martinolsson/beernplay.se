@@ -1,8 +1,7 @@
 ---
-title: Halloumi sticks
-position: 4
+title: Halloumi Sticks
+position: 7
 lang: en
 ref: halloumisticks
-price: 39
+price: 49
 ---
-

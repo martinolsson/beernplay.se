@@ -8,4 +8,4 @@ price: 155
 info: inbaked
 ---
 
-San Marzano tomatoes, Fior di Latte, prosciutto cotto, champignon, spicy salami, rocket, parmesan, basil.
+San Marzano tomatoes, Fior di Latte, prosciutto cotto, champignon, ventricina salami, rocket, parmesan, basil.

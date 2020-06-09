@@ -5,4 +5,4 @@ lang: sv
 price: 140
 ---
 
-San Marzano-tomater, Fior di Latte, stark salami, basilika.
+San Marzano-tomater, Fior di Latte, ventricinasalami, basilika.
