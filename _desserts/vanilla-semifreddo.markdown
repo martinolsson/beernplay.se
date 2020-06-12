@@ -6,4 +6,4 @@ ref: vanilla-semifreddo
 price: 85
 ---
 
-3 scoops of italian vanilla ice cream, cookies, chocolate sauce.
+3 scoops of italian vanilla ice cream, cookies, chocolate sauce

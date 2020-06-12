@@ -6,4 +6,4 @@ ref: primavera
 price: 145
 ---
 
-Provola, körsbärstomater, prosciutto crudo, ruccola, parmesanflingor, basilika.
+Provola, körsbärstomater, prosciutto crudo, ruccola, parmesanflingor, basilika

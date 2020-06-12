@@ -6,4 +6,4 @@ ref: capricciosa
 price: 145
 ---
 
-San Marzano-tomater, Fior di Latte, kronärtskocka, prosciutto cotto, svarta oliver, champinjoner, basilika.
+San Marzano-tomater, Fior di Latte, kronärtskocka, prosciutto cotto, svarta oliver, champinjoner, basilika

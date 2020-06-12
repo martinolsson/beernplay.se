@@ -7,4 +7,4 @@ price: 165
 info: vegetarisk
 ---
 
-Körsbärstomater, tryffelsås, provola, parmesan, champinjoner, basilika.
+Körsbärstomater, tryffelsås, provola, parmesan, champinjoner, basilika

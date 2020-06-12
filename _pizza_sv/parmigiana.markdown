@@ -6,4 +6,4 @@ ref: parmigiana
 price: 145
 ---
 
-San Marzano-tomater, Fior di Latte, parmesan, aubergine, vitlök, basilika.
+San Marzano-tomater, Fior di Latte, parmesan, aubergine, vitlök, basilika

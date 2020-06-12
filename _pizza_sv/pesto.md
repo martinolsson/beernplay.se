@@ -7,4 +7,4 @@ price: 150
 info: vegetarisk
 ---
 
-Körsbärstomater, pesto genovese, provola, parmesan, basilika.
+Körsbärstomater, pesto genovese, provola, parmesan, basilika

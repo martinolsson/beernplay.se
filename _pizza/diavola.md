@@ -5,4 +5,4 @@ lang: en
 price: 140
 ---
 
-San Marzano tomatoes, Fior di Latte, ventricina salami, basil.
+San Marzano tomatoes, Fior di Latte, ventricina salami, basil

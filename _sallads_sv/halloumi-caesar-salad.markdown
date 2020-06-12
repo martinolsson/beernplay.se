@@ -7,4 +7,4 @@ ref: halloumi-caesar
 price: 169
 ---
 
-Romansallad, caesardressing, halloumi, körsbärstomat, parmesan, krutonger.
+Romansallad, caesardressing, halloumi, körsbärstomat, parmesan, krutonger

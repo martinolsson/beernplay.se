@@ -6,4 +6,4 @@ ref: strawberry-milkshake
 price: 75
 ---
 
-Strawberries, italian vanilla ice cream, cream, strawberry coulis.
+Strawberries, italian vanilla ice cream, cream, strawberry coulis

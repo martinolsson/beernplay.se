@@ -7,4 +7,4 @@ price: 100
 info: Very shareable!
 ---
 
-Pizza dough, Nutella, vanilla sugar.
+Pizza dough, Nutella, vanilla sugar

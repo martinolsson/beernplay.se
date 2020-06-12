@@ -6,4 +6,4 @@ ref: quattro
 price: 135
 ---
 
-Fior di Latte, Gorgonzola, Grana Padano, Provola, basil.
+Fior di Latte, gorgonzola, grana padano, provola, basil

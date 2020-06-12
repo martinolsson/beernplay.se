@@ -7,4 +7,4 @@ price: 165
 info: vegetarisk
 ---
 
-Cherry tomatoes, truffle sauce, provola, parmesan, champignon, basil.
+Cherry tomatoes, truffle sauce, provola, parmesan, champignon, basil

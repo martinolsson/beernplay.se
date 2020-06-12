@@ -7,4 +7,4 @@ ref: halloumi-caesar
 price: 169
 ---
 
-Roman lettuce, caesar dressing, halloumi, cherry tomatoes, parmesan, croutons.
+Roman lettuce, caesar dressing, halloumi, cherry tomatoes, parmesan, croutons

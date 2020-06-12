@@ -7,4 +7,4 @@ price: 145
 info: vegetarian
 ---
 
-San Marzano tomatoes, Fior di Latte, parmesan, aubergine, garlic, basil.
+San Marzano tomatoes, Fior di Latte, parmesan, aubergine, garlic, basil

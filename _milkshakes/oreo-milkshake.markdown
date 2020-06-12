@@ -6,4 +6,4 @@ ref: oreo-milkshake
 price: 75
 ---
 
-Oreo cookies, italian vanilla ice cream, chocolate sauce.
+Oreo cookies, italian vanilla ice cream, chocolate sauce

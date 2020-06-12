@@ -6,4 +6,4 @@ ref: bersagliera
 price: 155
 ---
 
-Fior di Latte, San Marzano-tomater, ventricinasalami, bacon, champinjoner, basilika.
+Fior di Latte, San Marzano-tomater, ventricinasalami, bacon, champinjoner, basilika

@@ -7,4 +7,4 @@ info: 3×90g beef patty
 price: 189
 ---
 
-Cheddar cheese, bacon, caramelised onion
+Cheddar cheese, bacon, caramelised onions

@@ -6,4 +6,4 @@ ref: vanilla-semifreddo
 price: 85
 ---
 
-3 kulor italiensk vaniljglass, kex, chokladsås.
+3 kulor italiensk vaniljglass, kex, chokladsås

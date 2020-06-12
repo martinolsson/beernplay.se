@@ -7,4 +7,4 @@ info: 1×Portobello 1×Sweet Potato patty
 price: 159
 ---
 
-Cheddar cheese, avocado
+Vegan cheese, vegan roasted corn mayo

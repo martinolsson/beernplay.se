@@ -7,4 +7,4 @@ price: 150
 info: vegetarian
 ---
 
-Cherry tomatoes, pesto genovese, provola, parmesan, basil.
+Cherry tomatoes, pesto genovese, provola, parmesan, basil

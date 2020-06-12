@@ -7,4 +7,4 @@ price: 100
 info: Perfekt att dela!
 ---
 
-Pizzadeg, Nutella, vaniljsocker.
+Pizzadeg, Nutella, vaniljsocker

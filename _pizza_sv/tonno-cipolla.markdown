@@ -7,4 +7,4 @@ ref: tonno
 price: 150
 ---
 
-Fior di Latte, San Marzano-tomater, rödlök, tonfisk, basilika.
+Fior di Latte, San Marzano-tomater, rödlök, tonfisk, basilika

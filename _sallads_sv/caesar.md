@@ -6,4 +6,4 @@ ref: caesar
 price: 169
 ---
 
-Romansallad, caesardressing, marinerad kycklinglårfile, bacon, körsbärstomat, parmesan, krutonger.
+Romansallad, caesardressing, marinerad kycklinglårfile, bacon, körsbärstomat, parmesan, krutonger

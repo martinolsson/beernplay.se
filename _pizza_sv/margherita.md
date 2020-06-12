@@ -6,4 +6,4 @@ ref: margherita
 price: 115
 ---
 
-San Marzano-tomater, Fior di Latte, basilika.
+San Marzano-tomater, Fior di Latte, basilika

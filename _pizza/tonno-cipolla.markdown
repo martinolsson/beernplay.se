@@ -6,4 +6,4 @@ ref: tonno
 price: 150
 ---
 
-Fior di Latte, San Marzano tomatoes, red onion, tuna, basil.
+Fior di Latte, San Marzano tomatoes, red onion, tuna, basil
