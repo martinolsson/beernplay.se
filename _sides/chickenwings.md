@@ -1,8 +1,9 @@
 ---
 title: Chilli BBQ Chicken Wings
-info: 10
 position: 4
+info: 10
 lang: en
 ref: chickenwings
 price: 109
 ---
+

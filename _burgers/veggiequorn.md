@@ -1,9 +1,9 @@
 ---
-title: The Veggie Quorn
+title: The Veggie Special
 position: 6
 lang: en
 ref: veggie-quorn
-info: 1×quorn, black bean, mushroom patty
+info: 1×handmade soy patty
 price: 159
 ---
 

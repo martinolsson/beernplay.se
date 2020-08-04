@@ -1,9 +1,9 @@
 ---
-title: The Veggie Quorn
+title: The Veggie Special
 position: 6
 lang: sv
 ref: veggie-quorn
-info: 1×quorn-, bönor- och svampbiff
+info: 1×handgjord sojabiff
 price: 159
 ---
 
